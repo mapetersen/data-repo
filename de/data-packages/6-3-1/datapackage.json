@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "string",
             "title": "Year"
@@ -20,19 +25,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Ausgezeichnet",
-                "Gut",
                 "Ausreichend",
-                "Mangelhaft",
-                ""
+                "Gut",
+                "Mangelhaft"
               ]
             },
             "title": "Kategorie"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       }

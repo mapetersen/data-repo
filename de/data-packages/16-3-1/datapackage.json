@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,25 +25,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gesamt",
-                "Wahlkampf",
+                "",
                 "Behindertenfeindlichkeit",
-                "Sozialchauvinismus",
-                "LGBTIQ*-Feindlichkeit",
                 "Antisemitismus",
-                "Rechte und extrem Rechte Selbstdarstellung",
                 "Politische Gegner*innen",
-                "NS-Verharmlosung und Verherrlichung",
+                "LGBTIQ*-Feindlichkeit",
                 "Rassismus",
-                ""
+                "Rechte und extrem Rechte Selbstdarstellung",
+                "Sozialchauvinismus",
+                "Gesamt",
+                "NS-Verharmlosung und Verherrlichung",
+                "Wahlkampf"
               ]
             },
             "title": "Art des Vorfalls"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       }

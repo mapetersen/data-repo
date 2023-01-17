@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,18 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "fLotte kommunal",
-                "fLotte nicht-kommunal",
+                "",
                 "Gesamt",
-                ""
+                "fLotte kommunal",
+                "fLotte nicht-kommunal"
               ]
             },
             "title": "fLotte"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       }

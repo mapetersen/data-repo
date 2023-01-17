@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,19 +25,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Keine Werte",
+                "",
+                "Hoch",
                 "Gering",
                 "Mittel",
-                "Hoch",
-                ""
+                "Keine Werte"
               ]
             },
             "title": "Relative Lärmbelastung"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       }

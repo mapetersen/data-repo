@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,19 +25,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Siedlungsfläche",
-                "Wohnbaufläche",
-                "Industrie- und Gewerbefläche",
+                "",
                 "Sport-, Freizeit- und Erholungsfläche",
-                ""
+                "Industrie- und Gewerbefläche",
+                "Siedlungsfläche",
+                "Wohnbaufläche"
               ]
             },
             "title": "Fläche"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       }

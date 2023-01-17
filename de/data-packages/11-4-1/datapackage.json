@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,11 +25,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Zu Fuß",
-                "Fahrrad",
                 "Motorisierter Individualverkehr",
                 "Öffentlicher Verkehr",
-                ""
+                "Fahrrad"
               ]
             },
             "title": "Hauptverkehrsmittel"
@@ -34,18 +39,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Binnenverkehr",
-                "Quell- u. Zielverkehr",
+                "",
                 "Alle Wege",
-                ""
+                "Binnenverkehr",
+                "Quell- u. Zielverkehr"
               ]
             },
             "title": "Verkehrsströme"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

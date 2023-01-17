@@ -13,14 +13,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -37,6 +37,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -46,18 +51,13 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Repair Cafes",
-                "Gemeinschaftswerkstätten",
                 "ReUse Shops",
-                ""
+                "Gemeinschaftswerkstätten"
               ]
             },
             "title": "Gruppe"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -74,6 +74,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -83,18 +88,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Frauen",
+                "",
                 "Männer",
                 "Gesamt",
-                ""
+                "Frauen"
               ]
             },
             "title": "Geschlecht"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -111,19 +111,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Keine Bewerbung",
+                "",
                 "In Bewerbung",
-                "Fairtrade-School zertifiziert",
-                ""
+                "Keine Bewerbung",
+                "Fairtrade-School zertifiziert"
               ]
             },
             "title": "Status"
@@ -132,6 +127,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -148,6 +148,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -157,22 +162,17 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "10 Mbit/s",
-                "16 Mbit/s",
-                "30 Mbit/s",
-                "50 Mbit/s",
                 "100 Mbit/s",
-                "200 Mbit/s",
                 "1000 Mbit/s",
-                ""
+                "16 Mbit/s",
+                "200 Mbit/s",
+                "30 Mbit/s",
+                "50 Mbit/s"
               ]
             },
             "title": "Verfügbarkeit"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -189,18 +189,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
-                "B",
-                ""
+                "B"
               ]
             },
             "title": "Group"
@@ -209,6 +204,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -225,18 +225,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
-                "B",
-                ""
+                "B"
               ]
             },
             "title": "Group"
@@ -245,6 +240,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -261,18 +261,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
-                "B",
-                ""
+                "B"
               ]
             },
             "title": "Group"
@@ -281,6 +276,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -297,18 +297,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Siegel Faire Gemeinde",
-                "Kein Siegel",
-                ""
+                "Kein Siegel"
               ]
             },
             "title": "Status"
@@ -317,6 +312,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -333,14 +333,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -357,14 +357,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -381,14 +381,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -405,14 +405,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -429,14 +429,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -453,14 +453,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -477,14 +477,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -501,14 +501,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -525,6 +525,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -534,20 +539,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Städtepartnerschaften",
+                "",
                 "Gemeindeprojekte",
                 "Schulpartnerschaften",
-                "Zivilgesellschaftliche Projekte",
+                "Städtepartnerschaften",
                 "Weltläden",
-                ""
+                "Zivilgesellschaftliche Projekte"
               ]
             },
             "title": "Eine-Welt-Projekte"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -564,18 +564,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
-                "B",
-                ""
+                "B"
               ]
             },
             "title": "Group"
@@ -584,6 +579,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -600,14 +600,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -624,42 +624,12 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Ortsteil",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Alt-Treptow",
-                "Plänterwald",
-                "Baumschulenweg",
-                "Johannisthal",
-                "Niederschöneweide",
-                "Altglienicke",
-                "Adlershof",
-                "Bohnsdorf",
-                "Oberschöneweide",
-                "Köpenick",
-                "Friedrichshagen",
-                "Rahnsdorf",
-                "Grünau",
-                "Müggelheim",
-                "Schmöckwitz",
-                ""
-              ]
-            },
-            "title": "Ortsteil"
-          },
-          {
             "name": "District",
             "type": "string",
             "constraints": {
               "enum": [
-                "Treptow-Köpenick",
-                ""
+                "",
+                "Treptow-Köpenick"
               ]
             },
             "title": "District"
@@ -670,9 +640,39 @@
             "title": "GeoCode"
           },
           {
+            "name": "Ortsteil",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Adlershof",
+                "Alt-Treptow",
+                "Altglienicke",
+                "Baumschulenweg",
+                "Bohnsdorf",
+                "Friedrichshagen",
+                "Grünau",
+                "Johannisthal",
+                "Köpenick",
+                "Müggelheim",
+                "Niederschöneweide",
+                "Oberschöneweide",
+                "Plänterwald",
+                "Rahnsdorf",
+                "Schmöckwitz"
+              ]
+            },
+            "title": "Ortsteil"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -689,6 +689,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -698,18 +703,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Öffentlicher Raum",
+                "",
                 "Öffentlich zugänglich - auf privatem Grund",
-                "Gesamt",
-                ""
+                "Öffentlicher Raum",
+                "Gesamt"
               ]
             },
             "title": "Standort"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -726,18 +726,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
-                "B",
-                ""
+                "B"
               ]
             },
             "title": "Group"
@@ -746,6 +741,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -762,14 +762,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "string",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -786,18 +786,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
-                "B",
-                ""
+                "B"
               ]
             },
             "title": "Group"
@@ -806,6 +801,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -822,6 +822,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -831,17 +836,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Saprobie",
-                "Trophie",
-                ""
+                "Trophie"
               ]
             },
             "title": "Zustand"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -858,14 +858,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -882,18 +882,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
-                "B",
-                ""
+                "B"
               ]
             },
             "title": "Group"
@@ -902,6 +897,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -918,14 +918,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -942,14 +942,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -966,6 +966,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -975,19 +980,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Keine Werte",
+                "",
+                "Hoch",
                 "Gering",
                 "Mittel",
-                "Hoch",
-                ""
+                "Keine Werte"
               ]
             },
             "title": "Relative Lärmbelastung"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -1004,18 +1004,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
-                "B",
-                ""
+                "B"
               ]
             },
             "title": "Group"
@@ -1024,6 +1019,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1040,14 +1040,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1064,14 +1064,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1088,14 +1088,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1112,18 +1112,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
-                "B",
-                ""
+                "B"
               ]
             },
             "title": "Group"
@@ -1132,6 +1127,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1148,18 +1148,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Treptow-Köpenick",
+                "",
                 "Berlin",
-                ""
+                "Treptow-Köpenick"
               ]
             },
             "title": "Region"
@@ -1168,6 +1163,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1184,18 +1184,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
-                "B",
-                ""
+                "B"
               ]
             },
             "title": "Group"
@@ -1204,6 +1199,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1220,6 +1220,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -1229,18 +1234,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Feinstaub (PM10)",
-                "Ozon Stundenwerte",
+                "",
                 "Ozon 8-Stundenwerte (gleitend)",
-                ""
+                "Ozon Stundenwerte",
+                "Feinstaub (PM10)"
               ]
             },
             "title": "Luftgüte"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -1257,14 +1257,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1281,6 +1281,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -1290,18 +1295,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "fLotte kommunal",
-                "fLotte nicht-kommunal",
+                "",
                 "Gesamt",
-                ""
+                "fLotte kommunal",
+                "fLotte nicht-kommunal"
               ]
             },
             "title": "fLotte"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -1318,6 +1318,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -1327,11 +1332,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Zu Fuß",
-                "Fahrrad",
                 "Motorisierter Individualverkehr",
                 "Öffentlicher Verkehr",
-                ""
+                "Fahrrad"
               ]
             },
             "title": "Hauptverkehrsmittel"
@@ -1341,18 +1346,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Binnenverkehr",
-                "Quell- u. Zielverkehr",
+                "",
                 "Alle Wege",
-                ""
+                "Binnenverkehr",
+                "Quell- u. Zielverkehr"
               ]
             },
             "title": "Verkehrsströme"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       },
@@ -1369,6 +1369,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -1378,25 +1383,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gesamt",
-                "Wahlkampf",
+                "",
                 "Behindertenfeindlichkeit",
-                "Sozialchauvinismus",
-                "LGBTIQ*-Feindlichkeit",
                 "Antisemitismus",
-                "Rechte und extrem Rechte Selbstdarstellung",
                 "Politische Gegner*innen",
-                "NS-Verharmlosung und Verherrlichung",
+                "LGBTIQ*-Feindlichkeit",
                 "Rassismus",
-                ""
+                "Rechte und extrem Rechte Selbstdarstellung",
+                "Sozialchauvinismus",
+                "Gesamt",
+                "NS-Verharmlosung und Verherrlichung",
+                "Wahlkampf"
               ]
             },
             "title": "Art des Vorfalls"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -1413,6 +1413,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -1422,11 +1427,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Adlershof",
                 "Allende-Viertel",
+                "Alt-Treptow",
                 "Altglienicke",
                 "Altstadt Köpenick",
-                "Alt-Treptow",
                 "Baumschulenweg",
                 "Bohnsdorf",
                 "Dammvorstadt",
@@ -1441,16 +1447,10 @@
                 "Oberschöneweide",
                 "Plänterwald",
                 "Rahnsdorf",
-                "Schmöckwitz",
-                ""
+                "Schmöckwitz"
               ]
             },
             "title": "Bezirksregion"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -1467,14 +1467,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1491,6 +1491,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -1500,20 +1505,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "<30 kW",
+                ">100 - 750 kW",
                 ">30 - 40 kW",
                 ">40 - 100 kW",
-                ">100 - 750 kW",
-                ">750 kW",
-                ""
+                ">750 kW"
               ]
             },
             "title": "Leistungsklasse"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -1530,6 +1530,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -1539,18 +1544,13 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Naturschutzgebiete",
                 "Landschaftsschutzgebiete",
-                "Gesamt",
-                ""
+                "Gesamt"
               ]
             },
             "title": "Fläche"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       },
@@ -1567,6 +1567,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -1576,20 +1581,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Grün- und Erholungsanlagen (inkl. Spielplätze)",
-                "Kleingärten",
                 "Friedhöfe",
+                "Kleingärten",
                 "Straßengrün",
-                "Summe öffentliche Grünflächen",
-                ""
+                "Summe öffentliche Grünflächen"
               ]
             },
             "title": "Öffentliche Grünflächen"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -1606,14 +1606,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1630,14 +1630,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1654,14 +1654,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1678,6 +1678,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -1687,25 +1692,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ausgestorben oder verschollen",
-                "Vom Aussterben bedroht",
-                "Stark gefährdet",
+                "",
+                "Daten unzureichend",
                 "Gefährdet",
+                "Nicht bewertet",
+                "Vom Aussterben bedroht",
                 "Gefährdung unbekannten Ausmaßes",
+                "Ausgestorben oder verschollen",
                 "Extrem selten",
                 "Vorwarnliste",
-                "Ungefährdet",
-                "Daten unzureichend",
-                "Nicht bewertet",
-                ""
+                "Stark gefährdet",
+                "Ungefährdet"
               ]
             },
             "title": "Gefährdungskategorien"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -1722,6 +1722,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -1731,18 +1736,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "fLotte kommunal",
-                "fLotte nicht-kommunal",
+                "",
                 "Gesamt",
-                ""
+                "fLotte kommunal",
+                "fLotte nicht-kommunal"
               ]
             },
             "title": "fLotte"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -1759,14 +1759,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1783,14 +1783,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1807,14 +1807,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1831,18 +1831,30 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "District",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Treptow-Koepenick"
+              ]
+            },
+            "title": "District"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Ortsteil",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Adlershof",
-                "Altglienicke",
                 "Alt-Treptow",
+                "Altglienicke",
                 "Baumschulenweg",
                 "Bohnsdorf",
                 "Friedrichshagen",
@@ -1854,32 +1866,20 @@
                 "Oberschoeneweide",
                 "Plaenterwald",
                 "Rahnsdorf",
-                "Schmoeckwitz",
-                ""
+                "Schmoeckwitz"
               ]
             },
             "title": "Ortsteil"
           },
           {
-            "name": "District",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Treptow-Koepenick",
-                ""
-              ]
-            },
-            "title": "District"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1896,18 +1896,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
-                "B",
-                ""
+                "B"
               ]
             },
             "title": "Group"
@@ -1916,6 +1911,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1932,14 +1932,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1956,14 +1956,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1980,6 +1980,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -1989,19 +1994,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gesamt",
+                "",
                 "Verarbeitendes Gewerbe",
-                "Verkehr",
                 "Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbraucher",
-                ""
+                "Gesamt",
+                "Verkehr"
               ]
             },
             "title": "Emittentensektoren"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       },
@@ -2018,14 +2018,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2042,14 +2042,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2066,14 +2066,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2090,14 +2090,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2114,14 +2114,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2138,14 +2138,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2162,18 +2162,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
-                "B",
-                ""
+                "B"
               ]
             },
             "title": "Group"
@@ -2182,6 +2177,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2198,6 +2198,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -2207,6 +2212,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Albinea",
                 "Cajamarca",
                 "East Norriton",
@@ -2219,16 +2225,10 @@
                 "Subotica",
                 "Veszprem",
                 "Warszawa",
-                "Gesamt",
-                ""
+                "Gesamt"
               ]
             },
             "title": "Partnerstädte"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -2245,6 +2245,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -2254,17 +2259,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Ja",
-                "Nein",
-                ""
+                "Nein"
               ]
             },
             "title": "Antworten"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -2281,6 +2281,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "string",
             "title": "Year"
@@ -2290,19 +2295,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Ausgezeichnet",
-                "Gut",
                 "Ausreichend",
-                "Mangelhaft",
-                ""
+                "Gut",
+                "Mangelhaft"
               ]
             },
             "title": "Kategorie"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -2319,14 +2319,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2343,18 +2343,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
-                "B",
-                ""
+                "B"
               ]
             },
             "title": "Group"
@@ -2363,6 +2358,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2379,6 +2379,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -2388,18 +2393,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Frauen",
-                "Männer",
+                "",
                 "Gender Pay Gap",
-                ""
+                "Männer",
+                "Frauen"
               ]
             },
             "title": "Geschlecht"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       },
@@ -2416,14 +2416,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2440,14 +2440,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2464,14 +2464,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2488,18 +2488,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
-                "B",
-                ""
+                "B"
               ]
             },
             "title": "Group"
@@ -2508,6 +2503,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2524,6 +2524,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -2533,17 +2538,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Ja",
-                "Nein",
-                ""
+                "Nein"
               ]
             },
             "title": "Antworten"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -2560,6 +2560,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -2569,19 +2574,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Siedlungsfläche",
-                "Wohnbaufläche",
-                "Industrie- und Gewerbefläche",
+                "",
                 "Sport-, Freizeit- und Erholungsfläche",
-                ""
+                "Industrie- und Gewerbefläche",
+                "Siedlungsfläche",
+                "Wohnbaufläche"
               ]
             },
             "title": "Fläche"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -2598,14 +2598,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2622,14 +2622,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2646,6 +2646,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -2655,17 +2660,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Innenbereich",
-                "Außenbereich",
-                ""
+                "Außenbereich"
               ]
             },
             "title": "Zugangspunkte"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -2682,14 +2682,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2706,18 +2706,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
-                "B",
-                ""
+                "B"
               ]
             },
             "title": "Group"
@@ -2726,6 +2721,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2742,6 +2742,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -2751,18 +2756,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gering",
-                "Mittel",
+                "",
                 "Hoch",
-                ""
+                "Gering",
+                "Mittel"
               ]
             },
             "title": "Relative Luftbelastung"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -2779,14 +2779,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },

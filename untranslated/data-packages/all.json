@@ -1055,6 +1055,80 @@
       "title": "9-5-1"
     },
     {
+      "path": "11-2-3/data.csv",
+      "name": "11-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Amt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Amt Eiderstedt",
+                "Amt Föhr-Land",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gemeinde",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Garding Kirchspiel",
+                "Garding Stadt",
+                "Grothusenkoog",
+                "Katharinenheerd",
+                "Kotzenbüll",
+                "Norderfriedrichskoog",
+                "Oldenswort",
+                "Osterhever",
+                "Poppenbüll",
+                "Sankt Peter-Ording",
+                "Tating",
+                "Tetenbüll",
+                "Tönning",
+                "Tümlauer Koog",
+                "Vollerwiek",
+                "Welt",
+                "Westerhever",
+                "Alkersum",
+                "Borgsum",
+                "Dunsum",
+                "Midlum",
+                "Nebel",
+                "Nieblum",
+                "Norddorf",
+                "Oevenum",
+                "Oldsum",
+                "Süderende",
+                "Utersum",
+                "Witsum",
+                "Wittdün",
+                "Wrixum",
+                "Wyk",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "11-2-3"
+    },
+    {
       "path": "5-1-1/data.csv",
       "name": "5-1-1",
       "profile": "tabular-data-resource",
@@ -1575,28 +1649,6 @@
         ]
       },
       "title": "6-3-2"
-    },
-    {
-      "path": "11-2-3/data.csv",
-      "name": "11-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "11-2-3"
     },
     {
       "path": "9-5-3/data.csv",

@@ -12,66 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "Amt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Amt Eiderstedt",
-                "Amt Föhr-Land",
-                ""
-              ]
-            },
-            "title": "Amt"
-          },
-          {
-            "name": "Gemeinde",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Garding Kirchspiel",
-                "Garding Stadt",
-                "Grothusenkoog",
-                "Katharinenheerd",
-                "Kotzenbüll",
-                "Norderfriedrichskoog",
-                "Oldenswort",
-                "Osterhever",
-                "Poppenbüll",
-                "Sankt Peter-Ording",
-                "Tating",
-                "Tetenbüll",
-                "Tönning",
-                "Tümlauer Koog",
-                "Vollerwiek",
-                "Welt",
-                "Westerhever",
-                "Alkersum",
-                "Borgsum",
-                "Dunsum",
-                "Midlum",
-                "Nebel",
-                "Nieblum",
-                "Norddorf",
-                "Oevenum",
-                "Oldsum",
-                "Süderende",
-                "Utersum",
-                "Witsum",
-                "Wittdün",
-                "Wrixum",
-                "Wyk",
-                ""
-              ]
-            },
-            "title": "Gemeinde"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -1,1 +1,1730 @@
-Year,Value
+Year,Amt,Gemeinde,Value
+2010,Amt Eiderstedt,Garding Kirchspiel,508
+2011,Amt Eiderstedt,Garding Kirchspiel,489
+2012,Amt Eiderstedt,Garding Kirchspiel,469
+2013,Amt Eiderstedt,Garding Kirchspiel,476
+2014,Amt Eiderstedt,Garding Kirchspiel,526
+2015,Amt Eiderstedt,Garding Kirchspiel,551
+2016,Amt Eiderstedt,Garding Kirchspiel,573
+2017,Amt Eiderstedt,Garding Kirchspiel,649
+2018,Amt Eiderstedt,Garding Kirchspiel,712
+2019,Amt Eiderstedt,Garding Kirchspiel,814
+2020,Amt Eiderstedt,Garding Kirchspiel,870
+2021,Amt Eiderstedt,Garding Kirchspiel,934
+2022,Amt Eiderstedt,Garding Kirchspiel,791
+2010,Amt Eiderstedt,Garding Stadt,515
+2011,Amt Eiderstedt,Garding Stadt,521
+2012,Amt Eiderstedt,Garding Stadt,571
+2013,Amt Eiderstedt,Garding Stadt,581
+2014,Amt Eiderstedt,Garding Stadt,575
+2015,Amt Eiderstedt,Garding Stadt,588
+2016,Amt Eiderstedt,Garding Stadt,566
+2017,Amt Eiderstedt,Garding Stadt,574
+2018,Amt Eiderstedt,Garding Stadt,564
+2019,Amt Eiderstedt,Garding Stadt,575
+2020,Amt Eiderstedt,Garding Stadt,582
+2021,Amt Eiderstedt,Garding Stadt,598
+2022,Amt Eiderstedt,Garding Stadt,624
+2010,Amt Eiderstedt,Grothusenkoog,818
+2011,Amt Eiderstedt,Grothusenkoog,900
+2012,Amt Eiderstedt,Grothusenkoog,826
+2013,Amt Eiderstedt,Grothusenkoog,696
+2014,Amt Eiderstedt,Grothusenkoog,864
+2015,Amt Eiderstedt,Grothusenkoog,905
+2016,Amt Eiderstedt,Grothusenkoog,952
+2017,Amt Eiderstedt,Grothusenkoog,857
+2018,Amt Eiderstedt,Grothusenkoog,1000
+2019,Amt Eiderstedt,Grothusenkoog,750
+2020,Amt Eiderstedt,Grothusenkoog,762
+2021,Amt Eiderstedt,Grothusenkoog,913
+2022,Amt Eiderstedt,Grothusenkoog,846
+2010,Amt Eiderstedt,Katharinenheerd,632
+2011,Amt Eiderstedt,Katharinenheerd,633
+2012,Amt Eiderstedt,Katharinenheerd,602
+2013,Amt Eiderstedt,Katharinenheerd,573
+2014,Amt Eiderstedt,Katharinenheerd,615
+2015,Amt Eiderstedt,Katharinenheerd,621
+2016,Amt Eiderstedt,Katharinenheerd,624
+2017,Amt Eiderstedt,Katharinenheerd,663
+2018,Amt Eiderstedt,Katharinenheerd,624
+2019,Amt Eiderstedt,Katharinenheerd,638
+2020,Amt Eiderstedt,Katharinenheerd,646
+2021,Amt Eiderstedt,Katharinenheerd,694
+2022,Amt Eiderstedt,Katharinenheerd,646
+2010,Amt Eiderstedt,Kotzenbüll,563
+2011,Amt Eiderstedt,Kotzenbüll,568
+2012,Amt Eiderstedt,Kotzenbüll,537
+2013,Amt Eiderstedt,Kotzenbüll,555
+2014,Amt Eiderstedt,Kotzenbüll,553
+2015,Amt Eiderstedt,Kotzenbüll,594
+2016,Amt Eiderstedt,Kotzenbüll,624
+2017,Amt Eiderstedt,Kotzenbüll,632
+2018,Amt Eiderstedt,Kotzenbüll,718
+2019,Amt Eiderstedt,Kotzenbüll,759
+2020,Amt Eiderstedt,Kotzenbüll,740
+2021,Amt Eiderstedt,Kotzenbüll,773
+2022,Amt Eiderstedt,Kotzenbüll,775
+2010,Amt Eiderstedt,Norderfriedrichskoog,1897
+2011,Amt Eiderstedt,Norderfriedrichskoog,1675
+2012,Amt Eiderstedt,Norderfriedrichskoog,1184
+2013,Amt Eiderstedt,Norderfriedrichskoog,1021
+2014,Amt Eiderstedt,Norderfriedrichskoog,1000
+2015,Amt Eiderstedt,Norderfriedrichskoog,1023
+2016,Amt Eiderstedt,Norderfriedrichskoog,824
+2017,Amt Eiderstedt,Norderfriedrichskoog,880
+2018,Amt Eiderstedt,Norderfriedrichskoog,906
+2019,Amt Eiderstedt,Norderfriedrichskoog,963
+2020,Amt Eiderstedt,Norderfriedrichskoog,1150
+2021,Amt Eiderstedt,Norderfriedrichskoog,1108
+2022,Amt Eiderstedt,Norderfriedrichskoog,930
+2010,Amt Eiderstedt,Oldenswort,559
+2011,Amt Eiderstedt,Oldenswort,575
+2012,Amt Eiderstedt,Oldenswort,592
+2013,Amt Eiderstedt,Oldenswort,592
+2014,Amt Eiderstedt,Oldenswort,617
+2015,Amt Eiderstedt,Oldenswort,621
+2016,Amt Eiderstedt,Oldenswort,626
+2017,Amt Eiderstedt,Oldenswort,639
+2018,Amt Eiderstedt,Oldenswort,642
+2019,Amt Eiderstedt,Oldenswort,648
+2020,Amt Eiderstedt,Oldenswort,682
+2021,Amt Eiderstedt,Oldenswort,679
+2022,Amt Eiderstedt,Oldenswort,661
+2010,Amt Eiderstedt,Osterhever,671
+2011,Amt Eiderstedt,Osterhever,710
+2012,Amt Eiderstedt,Osterhever,711
+2013,Amt Eiderstedt,Osterhever,726
+2014,Amt Eiderstedt,Osterhever,788
+2015,Amt Eiderstedt,Osterhever,790
+2016,Amt Eiderstedt,Osterhever,814
+2017,Amt Eiderstedt,Osterhever,852
+2018,Amt Eiderstedt,Osterhever,853
+2019,Amt Eiderstedt,Osterhever,867
+2020,Amt Eiderstedt,Osterhever,917
+2021,Amt Eiderstedt,Osterhever,915
+2022,Amt Eiderstedt,Osterhever,888
+2010,Amt Eiderstedt,Poppenbüll,789
+2011,Amt Eiderstedt,Poppenbüll,843
+2012,Amt Eiderstedt,Poppenbüll,605
+2013,Amt Eiderstedt,Poppenbüll,657
+2014,Amt Eiderstedt,Poppenbüll,637
+2015,Amt Eiderstedt,Poppenbüll,674
+2016,Amt Eiderstedt,Poppenbüll,679
+2017,Amt Eiderstedt,Poppenbüll,694
+2018,Amt Eiderstedt,Poppenbüll,734
+2019,Amt Eiderstedt,Poppenbüll,724
+2020,Amt Eiderstedt,Poppenbüll,716
+2021,Amt Eiderstedt,Poppenbüll,734
+2022,Amt Eiderstedt,Poppenbüll,761
+2010,Amt Eiderstedt,Sankt Peter-Ording,503
+2011,Amt Eiderstedt,Sankt Peter-Ording,516
+2012,Amt Eiderstedt,Sankt Peter-Ording,570
+2013,Amt Eiderstedt,Sankt Peter-Ording,578
+2014,Amt Eiderstedt,Sankt Peter-Ording,577
+2015,Amt Eiderstedt,Sankt Peter-Ording,556
+2016,Amt Eiderstedt,Sankt Peter-Ording,563
+2017,Amt Eiderstedt,Sankt Peter-Ording,562
+2018,Amt Eiderstedt,Sankt Peter-Ording,588
+2019,Amt Eiderstedt,Sankt Peter-Ording,602
+2020,Amt Eiderstedt,Sankt Peter-Ording,611
+2021,Amt Eiderstedt,Sankt Peter-Ording,634
+2022,Amt Eiderstedt,Sankt Peter-Ording,641
+2010,Amt Eiderstedt,Tating,575
+2011,Amt Eiderstedt,Tating,587
+2012,Amt Eiderstedt,Tating,611
+2013,Amt Eiderstedt,Tating,617
+2014,Amt Eiderstedt,Tating,625
+2015,Amt Eiderstedt,Tating,627
+2016,Amt Eiderstedt,Tating,636
+2017,Amt Eiderstedt,Tating,622
+2018,Amt Eiderstedt,Tating,630
+2019,Amt Eiderstedt,Tating,657
+2020,Amt Eiderstedt,Tating,681
+2021,Amt Eiderstedt,Tating,670
+2022,Amt Eiderstedt,Tating,697
+2010,Amt Eiderstedt,Tetenbüll,641
+2011,Amt Eiderstedt,Tetenbüll,643
+2012,Amt Eiderstedt,Tetenbüll,620
+2013,Amt Eiderstedt,Tetenbüll,625
+2014,Amt Eiderstedt,Tetenbüll,624
+2015,Amt Eiderstedt,Tetenbüll,629
+2016,Amt Eiderstedt,Tetenbüll,659
+2017,Amt Eiderstedt,Tetenbüll,675
+2018,Amt Eiderstedt,Tetenbüll,690
+2019,Amt Eiderstedt,Tetenbüll,778
+2020,Amt Eiderstedt,Tetenbüll,744
+2021,Amt Eiderstedt,Tetenbüll,741
+2022,Amt Eiderstedt,Tetenbüll,761
+2010,Amt Eiderstedt,Tönning,493
+2011,Amt Eiderstedt,Tönning,499
+2012,Amt Eiderstedt,Tönning,505
+2013,Amt Eiderstedt,Tönning,513
+2014,Amt Eiderstedt,Tönning,518
+2015,Amt Eiderstedt,Tönning,531
+2016,Amt Eiderstedt,Tönning,537
+2017,Amt Eiderstedt,Tönning,537
+2018,Amt Eiderstedt,Tönning,542
+2019,Amt Eiderstedt,Tönning,555
+2020,Amt Eiderstedt,Tönning,568
+2021,Amt Eiderstedt,Tönning,582
+2022,Amt Eiderstedt,Tönning,591
+2010,Amt Eiderstedt,Tümlauer Koog,830
+2011,Amt Eiderstedt,Tümlauer Koog,804
+2012,Amt Eiderstedt,Tümlauer Koog,673
+2013,Amt Eiderstedt,Tümlauer Koog,694
+2014,Amt Eiderstedt,Tümlauer Koog,740
+2015,Amt Eiderstedt,Tümlauer Koog,690
+2016,Amt Eiderstedt,Tümlauer Koog,670
+2017,Amt Eiderstedt,Tümlauer Koog,705
+2018,Amt Eiderstedt,Tümlauer Koog,748
+2019,Amt Eiderstedt,Tümlauer Koog,692
+2020,Amt Eiderstedt,Tümlauer Koog,660
+2021,Amt Eiderstedt,Tümlauer Koog,670
+2022,Amt Eiderstedt,Tümlauer Koog,687
+2010,Amt Eiderstedt,Vollerwiek,575
+2011,Amt Eiderstedt,Vollerwiek,570
+2012,Amt Eiderstedt,Vollerwiek,662
+2013,Amt Eiderstedt,Vollerwiek,653
+2014,Amt Eiderstedt,Vollerwiek,640
+2015,Amt Eiderstedt,Vollerwiek,652
+2016,Amt Eiderstedt,Vollerwiek,677
+2017,Amt Eiderstedt,Vollerwiek,688
+2018,Amt Eiderstedt,Vollerwiek,682
+2019,Amt Eiderstedt,Vollerwiek,670
+2020,Amt Eiderstedt,Vollerwiek,689
+2021,Amt Eiderstedt,Vollerwiek,716
+2022,Amt Eiderstedt,Vollerwiek,738
+2010,Amt Eiderstedt,Welt,569
+2011,Amt Eiderstedt,Welt,581
+2012,Amt Eiderstedt,Welt,590
+2013,Amt Eiderstedt,Welt,614
+2014,Amt Eiderstedt,Welt,612
+2015,Amt Eiderstedt,Welt,673
+2016,Amt Eiderstedt,Welt,652
+2017,Amt Eiderstedt,Welt,678
+2018,Amt Eiderstedt,Welt,687
+2019,Amt Eiderstedt,Welt,716
+2020,Amt Eiderstedt,Welt,737
+2021,Amt Eiderstedt,Welt,779
+2022,Amt Eiderstedt,Welt,801
+2010,Amt Eiderstedt,Westerhever,742
+2011,Amt Eiderstedt,Westerhever,718
+2012,Amt Eiderstedt,Westerhever,672
+2013,Amt Eiderstedt,Westerhever,661
+2014,Amt Eiderstedt,Westerhever,698
+2015,Amt Eiderstedt,Westerhever,752
+2016,Amt Eiderstedt,Westerhever,798
+2017,Amt Eiderstedt,Westerhever,738
+2018,Amt Eiderstedt,Westerhever,765
+2019,Amt Eiderstedt,Westerhever,842
+2020,Amt Eiderstedt,Westerhever,851
+2021,Amt Eiderstedt,Westerhever,870
+2022,Amt Eiderstedt,Westerhever,869
+2010,Amt Föhr-Land,Alkersum,570
+2011,Amt Föhr-Land,Alkersum,556
+2012,Amt Föhr-Land,Alkersum,544
+2013,Amt Föhr-Land,Alkersum,539
+2014,Amt Föhr-Land,Alkersum,563
+2015,Amt Föhr-Land,Alkersum,572
+2016,Amt Föhr-Land,Alkersum,598
+2017,Amt Föhr-Land,Alkersum,604
+2018,Amt Föhr-Land,Alkersum,640
+2019,Amt Föhr-Land,Alkersum,590
+2020,Amt Föhr-Land,Alkersum,593
+2021,Amt Föhr-Land,Alkersum,632
+2022,Amt Föhr-Land,Alkersum,624
+2010,Amt Föhr-Land,Borgsum,506
+2011,Amt Föhr-Land,Borgsum,512
+2012,Amt Föhr-Land,Borgsum,563
+2013,Amt Föhr-Land,Borgsum,566
+2014,Amt Föhr-Land,Borgsum,537
+2015,Amt Föhr-Land,Borgsum,533
+2016,Amt Föhr-Land,Borgsum,569
+2017,Amt Föhr-Land,Borgsum,610
+2018,Amt Föhr-Land,Borgsum,617
+2019,Amt Föhr-Land,Borgsum,648
+2020,Amt Föhr-Land,Borgsum,646
+2021,Amt Föhr-Land,Borgsum,671
+2022,Amt Föhr-Land,Borgsum,701
+2010,Amt Föhr-Land,Dunsum,563
+2011,Amt Föhr-Land,Dunsum,563
+2012,Amt Föhr-Land,Dunsum,612
+2013,Amt Föhr-Land,Dunsum,582
+2014,Amt Föhr-Land,Dunsum,586
+2015,Amt Föhr-Land,Dunsum,620
+2016,Amt Föhr-Land,Dunsum,636
+2017,Amt Föhr-Land,Dunsum,635
+2018,Amt Föhr-Land,Dunsum,667
+2019,Amt Föhr-Land,Dunsum,662
+2020,Amt Föhr-Land,Dunsum,769
+2021,Amt Föhr-Land,Dunsum,746
+2022,Amt Föhr-Land,Dunsum,746
+2010,Amt Föhr-Land,Midlum,639
+2011,Amt Föhr-Land,Midlum,648
+2012,Amt Föhr-Land,Midlum,601
+2013,Amt Föhr-Land,Midlum,594
+2014,Amt Föhr-Land,Midlum,572
+2015,Amt Föhr-Land,Midlum,566
+2016,Amt Föhr-Land,Midlum,543
+2017,Amt Föhr-Land,Midlum,543
+2018,Amt Föhr-Land,Midlum,562
+2019,Amt Föhr-Land,Midlum,572
+2020,Amt Föhr-Land,Midlum,560
+2021,Amt Föhr-Land,Midlum,543
+2022,Amt Föhr-Land,Midlum,570
+2010,Amt Föhr-Land,Nebel,588
+2011,Amt Föhr-Land,Nebel,577
+2012,Amt Föhr-Land,Nebel,551
+2013,Amt Föhr-Land,Nebel,567
+2014,Amt Föhr-Land,Nebel,589
+2015,Amt Föhr-Land,Nebel,588
+2016,Amt Föhr-Land,Nebel,547
+2017,Amt Föhr-Land,Nebel,548
+2018,Amt Föhr-Land,Nebel,554
+2019,Amt Föhr-Land,Nebel,553
+2020,Amt Föhr-Land,Nebel,559
+2021,Amt Föhr-Land,Nebel,552
+2022,Amt Föhr-Land,Nebel,567
+2010,Amt Föhr-Land,Nieblum,771
+2011,Amt Föhr-Land,Nieblum,762
+2012,Amt Föhr-Land,Nieblum,766
+2013,Amt Föhr-Land,Nieblum,760
+2014,Amt Föhr-Land,Nieblum,764
+2015,Amt Föhr-Land,Nieblum,763
+2016,Amt Föhr-Land,Nieblum,702
+2017,Amt Föhr-Land,Nieblum,691
+2018,Amt Föhr-Land,Nieblum,692
+2019,Amt Föhr-Land,Nieblum,710
+2020,Amt Föhr-Land,Nieblum,722
+2021,Amt Föhr-Land,Nieblum,703
+2022,Amt Föhr-Land,Nieblum,726
+2010,Amt Föhr-Land,Norddorf,492
+2011,Amt Föhr-Land,Norddorf,509
+2012,Amt Föhr-Land,Norddorf,554
+2013,Amt Föhr-Land,Norddorf,532
+2014,Amt Föhr-Land,Norddorf,508
+2015,Amt Föhr-Land,Norddorf,488
+2016,Amt Föhr-Land,Norddorf,485
+2017,Amt Föhr-Land,Norddorf,472
+2018,Amt Föhr-Land,Norddorf,477
+2019,Amt Föhr-Land,Norddorf,490
+2020,Amt Föhr-Land,Norddorf,474
+2021,Amt Föhr-Land,Norddorf,479
+2022,Amt Föhr-Land,Norddorf,483
+2010,Amt Föhr-Land,Oevenum,568
+2011,Amt Föhr-Land,Oevenum,572
+2012,Amt Föhr-Land,Oevenum,607
+2013,Amt Föhr-Land,Oevenum,575
+2014,Amt Föhr-Land,Oevenum,577
+2015,Amt Föhr-Land,Oevenum,555
+2016,Amt Föhr-Land,Oevenum,611
+2017,Amt Föhr-Land,Oevenum,619
+2018,Amt Föhr-Land,Oevenum,583
+2019,Amt Föhr-Land,Oevenum,599
+2020,Amt Föhr-Land,Oevenum,592
+2021,Amt Föhr-Land,Oevenum,619
+2022,Amt Föhr-Land,Oevenum,641
+2010,Amt Föhr-Land,Oldsum,593
+2011,Amt Föhr-Land,Oldsum,594
+2012,Amt Föhr-Land,Oldsum,593
+2013,Amt Föhr-Land,Oldsum,624
+2014,Amt Föhr-Land,Oldsum,625
+2015,Amt Föhr-Land,Oldsum,649
+2016,Amt Föhr-Land,Oldsum,649
+2017,Amt Föhr-Land,Oldsum,659
+2018,Amt Föhr-Land,Oldsum,643
+2019,Amt Föhr-Land,Oldsum,642
+2020,Amt Föhr-Land,Oldsum,653
+2021,Amt Föhr-Land,Oldsum,667
+2022,Amt Föhr-Land,Oldsum,640
+2010,Amt Föhr-Land,Süderende,562
+2011,Amt Föhr-Land,Süderende,548
+2012,Amt Föhr-Land,Süderende,535
+2013,Amt Föhr-Land,Süderende,551
+2014,Amt Föhr-Land,Süderende,603
+2015,Amt Föhr-Land,Süderende,583
+2016,Amt Föhr-Land,Süderende,566
+2017,Amt Föhr-Land,Süderende,588
+2018,Amt Föhr-Land,Süderende,621
+2019,Amt Föhr-Land,Süderende,637
+2020,Amt Föhr-Land,Süderende,676
+2021,Amt Föhr-Land,Süderende,696
+2022,Amt Föhr-Land,Süderende,695
+2010,Amt Föhr-Land,Utersum,613
+2011,Amt Föhr-Land,Utersum,660
+2012,Amt Föhr-Land,Utersum,667
+2013,Amt Föhr-Land,Utersum,665
+2014,Amt Föhr-Land,Utersum,646
+2015,Amt Föhr-Land,Utersum,688
+2016,Amt Föhr-Land,Utersum,677
+2017,Amt Föhr-Land,Utersum,664
+2018,Amt Föhr-Land,Utersum,668
+2019,Amt Föhr-Land,Utersum,662
+2020,Amt Föhr-Land,Utersum,698
+2021,Amt Föhr-Land,Utersum,665
+2022,Amt Föhr-Land,Utersum,672
+2010,Amt Föhr-Land,Witsum,1041
+2011,Amt Föhr-Land,Witsum,1195
+2012,Amt Föhr-Land,Witsum,1043
+2013,Amt Föhr-Land,Witsum,1244
+2014,Amt Föhr-Land,Witsum,1225
+2015,Amt Föhr-Land,Witsum,1184
+2016,Amt Föhr-Land,Witsum,891
+2017,Amt Föhr-Land,Witsum,913
+2018,Amt Föhr-Land,Witsum,1000
+2019,Amt Föhr-Land,Witsum,1022
+2020,Amt Föhr-Land,Witsum,979
+2021,Amt Föhr-Land,Witsum,1085
+2022,Amt Föhr-Land,Witsum,1000
+2010,Amt Föhr-Land,Wittdün,556
+2011,Amt Föhr-Land,Wittdün,527
+2012,Amt Föhr-Land,Wittdün,524
+2013,Amt Föhr-Land,Wittdün,533
+2014,Amt Föhr-Land,Wittdün,533
+2015,Amt Föhr-Land,Wittdün,532
+2016,Amt Föhr-Land,Wittdün,528
+2017,Amt Föhr-Land,Wittdün,528
+2018,Amt Föhr-Land,Wittdün,536
+2019,Amt Föhr-Land,Wittdün,520
+2020,Amt Föhr-Land,Wittdün,528
+2021,Amt Föhr-Land,Wittdün,533
+2022,Amt Föhr-Land,Wittdün,513
+2010,Amt Föhr-Land,Wrixum,431
+2011,Amt Föhr-Land,Wrixum,461
+2012,Amt Föhr-Land,Wrixum,469
+2013,Amt Föhr-Land,Wrixum,481
+2014,Amt Föhr-Land,Wrixum,486
+2015,Amt Föhr-Land,Wrixum,486
+2016,Amt Föhr-Land,Wrixum,467
+2017,Amt Föhr-Land,Wrixum,476
+2018,Amt Föhr-Land,Wrixum,501
+2019,Amt Föhr-Land,Wrixum,525
+2020,Amt Föhr-Land,Wrixum,553
+2021,Amt Föhr-Land,Wrixum,548
+2022,Amt Föhr-Land,Wrixum,561
+2010,Amt Föhr-Land,Wyk,470
+2011,Amt Föhr-Land,Wyk,474
+2012,Amt Föhr-Land,Wyk,493
+2013,Amt Föhr-Land,Wyk,504
+2014,Amt Föhr-Land,Wyk,500
+2015,Amt Föhr-Land,Wyk,500
+2016,Amt Föhr-Land,Wyk,502
+2017,Amt Föhr-Land,Wyk,508
+2018,Amt Föhr-Land,Wyk,508
+2019,Amt Föhr-Land,Wyk,509
+2020,Amt Föhr-Land,Wyk,504
+2021,Amt Föhr-Land,Wyk,521
+2022,Amt Föhr-Land,Wyk,519
+2010,Amt Mittleres Nordfriesland,Ahrenshöft,583
+2011,Amt Mittleres Nordfriesland,Ahrenshöft,581
+2012,Amt Mittleres Nordfriesland,Ahrenshöft,614
+2013,Amt Mittleres Nordfriesland,Ahrenshöft,630
+2014,Amt Mittleres Nordfriesland,Ahrenshöft,642
+2015,Amt Mittleres Nordfriesland,Ahrenshöft,654
+2016,Amt Mittleres Nordfriesland,Ahrenshöft,663
+2017,Amt Mittleres Nordfriesland,Ahrenshöft,696
+2018,Amt Mittleres Nordfriesland,Ahrenshöft,709
+2019,Amt Mittleres Nordfriesland,Ahrenshöft,707
+2020,Amt Mittleres Nordfriesland,Ahrenshöft,705
+2021,Amt Mittleres Nordfriesland,Ahrenshöft,699
+2022,Amt Mittleres Nordfriesland,Ahrenshöft,696
+2010,Amt Mittleres Nordfriesland,Almdorf,615
+2011,Amt Mittleres Nordfriesland,Almdorf,595
+2012,Amt Mittleres Nordfriesland,Almdorf,604
+2013,Amt Mittleres Nordfriesland,Almdorf,620
+2014,Amt Mittleres Nordfriesland,Almdorf,609
+2015,Amt Mittleres Nordfriesland,Almdorf,595
+2016,Amt Mittleres Nordfriesland,Almdorf,611
+2017,Amt Mittleres Nordfriesland,Almdorf,618
+2018,Amt Mittleres Nordfriesland,Almdorf,657
+2019,Amt Mittleres Nordfriesland,Almdorf,629
+2020,Amt Mittleres Nordfriesland,Almdorf,641
+2021,Amt Mittleres Nordfriesland,Almdorf,671
+2022,Amt Mittleres Nordfriesland,Almdorf,671
+2010,Amt Mittleres Nordfriesland,Bargum,590
+2011,Amt Mittleres Nordfriesland,Bargum,595
+2012,Amt Mittleres Nordfriesland,Bargum,604
+2013,Amt Mittleres Nordfriesland,Bargum,612
+2014,Amt Mittleres Nordfriesland,Bargum,591
+2015,Amt Mittleres Nordfriesland,Bargum,604
+2016,Amt Mittleres Nordfriesland,Bargum,609
+2017,Amt Mittleres Nordfriesland,Bargum,607
+2018,Amt Mittleres Nordfriesland,Bargum,602
+2019,Amt Mittleres Nordfriesland,Bargum,635
+2020,Amt Mittleres Nordfriesland,Bargum,626
+2021,Amt Mittleres Nordfriesland,Bargum,630
+2022,Amt Mittleres Nordfriesland,Bargum,620
+2010,Amt Mittleres Nordfriesland,Bohmstedt,593
+2011,Amt Mittleres Nordfriesland,Bohmstedt,591
+2012,Amt Mittleres Nordfriesland,Bohmstedt,596
+2013,Amt Mittleres Nordfriesland,Bohmstedt,616
+2014,Amt Mittleres Nordfriesland,Bohmstedt,619
+2015,Amt Mittleres Nordfriesland,Bohmstedt,647
+2016,Amt Mittleres Nordfriesland,Bohmstedt,649
+2017,Amt Mittleres Nordfriesland,Bohmstedt,639
+2018,Amt Mittleres Nordfriesland,Bohmstedt,653
+2019,Amt Mittleres Nordfriesland,Bohmstedt,650
+2020,Amt Mittleres Nordfriesland,Bohmstedt,666
+2021,Amt Mittleres Nordfriesland,Bohmstedt,710
+2022,Amt Mittleres Nordfriesland,Bohmstedt,686
+2010,Amt Mittleres Nordfriesland,Bordelum,550
+2011,Amt Mittleres Nordfriesland,Bordelum,566
+2012,Amt Mittleres Nordfriesland,Bordelum,580
+2013,Amt Mittleres Nordfriesland,Bordelum,600
+2014,Amt Mittleres Nordfriesland,Bordelum,606
+2015,Amt Mittleres Nordfriesland,Bordelum,625
+2016,Amt Mittleres Nordfriesland,Bordelum,638
+2017,Amt Mittleres Nordfriesland,Bordelum,641
+2018,Amt Mittleres Nordfriesland,Bordelum,655
+2019,Amt Mittleres Nordfriesland,Bordelum,664
+2020,Amt Mittleres Nordfriesland,Bordelum,672
+2021,Amt Mittleres Nordfriesland,Bordelum,695
+2022,Amt Mittleres Nordfriesland,Bordelum,688
+2010,Amt Mittleres Nordfriesland,Bredstedt,497
+2011,Amt Mittleres Nordfriesland,Bredstedt,509
+2012,Amt Mittleres Nordfriesland,Bredstedt,498
+2013,Amt Mittleres Nordfriesland,Bredstedt,505
+2014,Amt Mittleres Nordfriesland,Bredstedt,509
+2015,Amt Mittleres Nordfriesland,Bredstedt,507
+2016,Amt Mittleres Nordfriesland,Bredstedt,506
+2017,Amt Mittleres Nordfriesland,Bredstedt,500
+2018,Amt Mittleres Nordfriesland,Bredstedt,515
+2019,Amt Mittleres Nordfriesland,Bredstedt,520
+2020,Amt Mittleres Nordfriesland,Bredstedt,522
+2021,Amt Mittleres Nordfriesland,Bredstedt,531
+2022,Amt Mittleres Nordfriesland,Bredstedt,535
+2010,Amt Mittleres Nordfriesland,Breklum,530
+2011,Amt Mittleres Nordfriesland,Breklum,540
+2012,Amt Mittleres Nordfriesland,Breklum,546
+2013,Amt Mittleres Nordfriesland,Breklum,561
+2014,Amt Mittleres Nordfriesland,Breklum,571
+2015,Amt Mittleres Nordfriesland,Breklum,580
+2016,Amt Mittleres Nordfriesland,Breklum,589
+2017,Amt Mittleres Nordfriesland,Breklum,604
+2018,Amt Mittleres Nordfriesland,Breklum,609
+2019,Amt Mittleres Nordfriesland,Breklum,625
+2020,Amt Mittleres Nordfriesland,Breklum,637
+2021,Amt Mittleres Nordfriesland,Breklum,653
+2022,Amt Mittleres Nordfriesland,Breklum,665
+2010,Amt Mittleres Nordfriesland,Drelsdorf,536
+2011,Amt Mittleres Nordfriesland,Drelsdorf,554
+2012,Amt Mittleres Nordfriesland,Drelsdorf,580
+2013,Amt Mittleres Nordfriesland,Drelsdorf,587
+2014,Amt Mittleres Nordfriesland,Drelsdorf,598
+2015,Amt Mittleres Nordfriesland,Drelsdorf,606
+2016,Amt Mittleres Nordfriesland,Drelsdorf,597
+2017,Amt Mittleres Nordfriesland,Drelsdorf,632
+2018,Amt Mittleres Nordfriesland,Drelsdorf,648
+2019,Amt Mittleres Nordfriesland,Drelsdorf,654
+2020,Amt Mittleres Nordfriesland,Drelsdorf,663
+2021,Amt Mittleres Nordfriesland,Drelsdorf,682
+2022,Amt Mittleres Nordfriesland,Drelsdorf,678
+2010,Amt Mittleres Nordfriesland,Goldebek,540
+2011,Amt Mittleres Nordfriesland,Goldebek,542
+2012,Amt Mittleres Nordfriesland,Goldebek,524
+2013,Amt Mittleres Nordfriesland,Goldebek,520
+2014,Amt Mittleres Nordfriesland,Goldebek,566
+2015,Amt Mittleres Nordfriesland,Goldebek,582
+2016,Amt Mittleres Nordfriesland,Goldebek,605
+2017,Amt Mittleres Nordfriesland,Goldebek,583
+2018,Amt Mittleres Nordfriesland,Goldebek,602
+2019,Amt Mittleres Nordfriesland,Goldebek,608
+2020,Amt Mittleres Nordfriesland,Goldebek,649
+2021,Amt Mittleres Nordfriesland,Goldebek,622
+2022,Amt Mittleres Nordfriesland,Goldebek,628
+2010,Amt Mittleres Nordfriesland,Goldelund,634
+2011,Amt Mittleres Nordfriesland,Goldelund,672
+2012,Amt Mittleres Nordfriesland,Goldelund,648
+2013,Amt Mittleres Nordfriesland,Goldelund,634
+2014,Amt Mittleres Nordfriesland,Goldelund,679
+2015,Amt Mittleres Nordfriesland,Goldelund,676
+2016,Amt Mittleres Nordfriesland,Goldelund,646
+2017,Amt Mittleres Nordfriesland,Goldelund,698
+2018,Amt Mittleres Nordfriesland,Goldelund,706
+2019,Amt Mittleres Nordfriesland,Goldelund,708
+2020,Amt Mittleres Nordfriesland,Goldelund,727
+2021,Amt Mittleres Nordfriesland,Goldelund,748
+2022,Amt Mittleres Nordfriesland,Goldelund,741
+2010,Amt Mittleres Nordfriesland,Hoernum,524
+2011,Amt Mittleres Nordfriesland,Hoernum,531
+2012,Amt Mittleres Nordfriesland,Hoernum,630
+2013,Amt Mittleres Nordfriesland,Hoernum,656
+2014,Amt Mittleres Nordfriesland,Hoernum,623
+2015,Amt Mittleres Nordfriesland,Hoernum,627
+2016,Amt Mittleres Nordfriesland,Hoernum,590
+2017,Amt Mittleres Nordfriesland,Hoernum,615
+2018,Amt Mittleres Nordfriesland,Hoernum,610
+2019,Amt Mittleres Nordfriesland,Hoernum,620
+2020,Amt Mittleres Nordfriesland,Hoernum,600
+2021,Amt Mittleres Nordfriesland,Hoernum,615
+2022,Amt Mittleres Nordfriesland,Hoernum,612
+2010,Amt Mittleres Nordfriesland,Joldelund,552
+2011,Amt Mittleres Nordfriesland,Joldelund,545
+2012,Amt Mittleres Nordfriesland,Joldelund,547
+2013,Amt Mittleres Nordfriesland,Joldelund,569
+2014,Amt Mittleres Nordfriesland,Joldelund,594
+2015,Amt Mittleres Nordfriesland,Joldelund,617
+2016,Amt Mittleres Nordfriesland,Joldelund,629
+2017,Amt Mittleres Nordfriesland,Joldelund,646
+2018,Amt Mittleres Nordfriesland,Joldelund,653
+2019,Amt Mittleres Nordfriesland,Joldelund,651
+2020,Amt Mittleres Nordfriesland,Joldelund,641
+2021,Amt Mittleres Nordfriesland,Joldelund,652
+2022,Amt Mittleres Nordfriesland,Joldelund,621
+2010,Amt Mittleres Nordfriesland,Kolkerheide,538
+2011,Amt Mittleres Nordfriesland,Kolkerheide,525
+2012,Amt Mittleres Nordfriesland,Kolkerheide,545
+2013,Amt Mittleres Nordfriesland,Kolkerheide,564
+2014,Amt Mittleres Nordfriesland,Kolkerheide,612
+2015,Amt Mittleres Nordfriesland,Kolkerheide,592
+2016,Amt Mittleres Nordfriesland,Kolkerheide,593
+2017,Amt Mittleres Nordfriesland,Kolkerheide,686
+2018,Amt Mittleres Nordfriesland,Kolkerheide,542
+2019,Amt Mittleres Nordfriesland,Kolkerheide,541
+2020,Amt Mittleres Nordfriesland,Kolkerheide,492
+2021,Amt Mittleres Nordfriesland,Kolkerheide,458
+2022,Amt Mittleres Nordfriesland,Kolkerheide,493
+2010,Amt Mittleres Nordfriesland,Langenhorn,549
+2011,Amt Mittleres Nordfriesland,Langenhorn,556
+2012,Amt Mittleres Nordfriesland,Langenhorn,565
+2013,Amt Mittleres Nordfriesland,Langenhorn,572
+2014,Amt Mittleres Nordfriesland,Langenhorn,593
+2015,Amt Mittleres Nordfriesland,Langenhorn,600
+2016,Amt Mittleres Nordfriesland,Langenhorn,594
+2017,Amt Mittleres Nordfriesland,Langenhorn,608
+2018,Amt Mittleres Nordfriesland,Langenhorn,610
+2019,Amt Mittleres Nordfriesland,Langenhorn,619
+2020,Amt Mittleres Nordfriesland,Langenhorn,636
+2021,Amt Mittleres Nordfriesland,Langenhorn,646
+2022,Amt Mittleres Nordfriesland,Langenhorn,652
+2010,Amt Mittleres Nordfriesland,Lütjenholm,598
+2011,Amt Mittleres Nordfriesland,Lütjenholm,567
+2012,Amt Mittleres Nordfriesland,Lütjenholm,551
+2013,Amt Mittleres Nordfriesland,Lütjenholm,582
+2014,Amt Mittleres Nordfriesland,Lütjenholm,603
+2015,Amt Mittleres Nordfriesland,Lütjenholm,657
+2016,Amt Mittleres Nordfriesland,Lütjenholm,618
+2017,Amt Mittleres Nordfriesland,Lütjenholm,632
+2018,Amt Mittleres Nordfriesland,Lütjenholm,644
+2019,Amt Mittleres Nordfriesland,Lütjenholm,634
+2020,Amt Mittleres Nordfriesland,Lütjenholm,661
+2021,Amt Mittleres Nordfriesland,Lütjenholm,689
+2022,Amt Mittleres Nordfriesland,Lütjenholm,677
+2010,Amt Mittleres Nordfriesland,Ockholm,528
+2011,Amt Mittleres Nordfriesland,Ockholm,539
+2012,Amt Mittleres Nordfriesland,Ockholm,569
+2013,Amt Mittleres Nordfriesland,Ockholm,590
+2014,Amt Mittleres Nordfriesland,Ockholm,577
+2015,Amt Mittleres Nordfriesland,Ockholm,582
+2016,Amt Mittleres Nordfriesland,Ockholm,622
+2017,Amt Mittleres Nordfriesland,Ockholm,645
+2018,Amt Mittleres Nordfriesland,Ockholm,668
+2019,Amt Mittleres Nordfriesland,Ockholm,672
+2020,Amt Mittleres Nordfriesland,Ockholm,644
+2021,Amt Mittleres Nordfriesland,Ockholm,650
+2022,Amt Mittleres Nordfriesland,Ockholm,680
+2010,Amt Mittleres Nordfriesland,Sönnebüll,596
+2011,Amt Mittleres Nordfriesland,Sönnebüll,585
+2012,Amt Mittleres Nordfriesland,Sönnebüll,600
+2013,Amt Mittleres Nordfriesland,Sönnebüll,570
+2014,Amt Mittleres Nordfriesland,Sönnebüll,588
+2015,Amt Mittleres Nordfriesland,Sönnebüll,590
+2016,Amt Mittleres Nordfriesland,Sönnebüll,614
+2017,Amt Mittleres Nordfriesland,Sönnebüll,598
+2018,Amt Mittleres Nordfriesland,Sönnebüll,588
+2019,Amt Mittleres Nordfriesland,Sönnebüll,598
+2020,Amt Mittleres Nordfriesland,Sönnebüll,624
+2021,Amt Mittleres Nordfriesland,Sönnebüll,667
+2022,Amt Mittleres Nordfriesland,Sönnebüll,639
+2010,Amt Mittleres Nordfriesland,Struckum,582
+2011,Amt Mittleres Nordfriesland,Struckum,596
+2012,Amt Mittleres Nordfriesland,Struckum,595
+2013,Amt Mittleres Nordfriesland,Struckum,610
+2014,Amt Mittleres Nordfriesland,Struckum,624
+2015,Amt Mittleres Nordfriesland,Struckum,606
+2016,Amt Mittleres Nordfriesland,Struckum,626
+2017,Amt Mittleres Nordfriesland,Struckum,635
+2018,Amt Mittleres Nordfriesland,Struckum,629
+2019,Amt Mittleres Nordfriesland,Struckum,645
+2020,Amt Mittleres Nordfriesland,Struckum,645
+2021,Amt Mittleres Nordfriesland,Struckum,664
+2022,Amt Mittleres Nordfriesland,Struckum,687
+2010,Amt Mittleres Nordfriesland,Vollstedt,585
+2011,Amt Mittleres Nordfriesland,Vollstedt,624
+2012,Amt Mittleres Nordfriesland,Vollstedt,564
+2013,Amt Mittleres Nordfriesland,Vollstedt,603
+2014,Amt Mittleres Nordfriesland,Vollstedt,618
+2015,Amt Mittleres Nordfriesland,Vollstedt,628
+2016,Amt Mittleres Nordfriesland,Vollstedt,629
+2017,Amt Mittleres Nordfriesland,Vollstedt,667
+2018,Amt Mittleres Nordfriesland,Vollstedt,641
+2019,Amt Mittleres Nordfriesland,Vollstedt,661
+2020,Amt Mittleres Nordfriesland,Vollstedt,727
+2021,Amt Mittleres Nordfriesland,Vollstedt,767
+2022,Amt Mittleres Nordfriesland,Vollstedt,791
+2010,Amt Nordsee-Treene,Arlewatt,639
+2011,Amt Nordsee-Treene,Arlewatt,623
+2012,Amt Nordsee-Treene,Arlewatt,634
+2013,Amt Nordsee-Treene,Arlewatt,645
+2014,Amt Nordsee-Treene,Arlewatt,636
+2015,Amt Nordsee-Treene,Arlewatt,659
+2016,Amt Nordsee-Treene,Arlewatt,678
+2017,Amt Nordsee-Treene,Arlewatt,699
+2018,Amt Nordsee-Treene,Arlewatt,673
+2019,Amt Nordsee-Treene,Arlewatt,693
+2020,Amt Nordsee-Treene,Arlewatt,702
+2021,Amt Nordsee-Treene,Arlewatt,672
+2022,Amt Nordsee-Treene,Arlewatt,678
+2010,Amt Nordsee-Treene,Drage,530
+2011,Amt Nordsee-Treene,Drage,531
+2012,Amt Nordsee-Treene,Drage,500
+2013,Amt Nordsee-Treene,Drage,536
+2014,Amt Nordsee-Treene,Drage,548
+2015,Amt Nordsee-Treene,Drage,554
+2016,Amt Nordsee-Treene,Drage,570
+2017,Amt Nordsee-Treene,Drage,575
+2018,Amt Nordsee-Treene,Drage,599
+2019,Amt Nordsee-Treene,Drage,618
+2020,Amt Nordsee-Treene,Drage,646
+2021,Amt Nordsee-Treene,Drage,674
+2022,Amt Nordsee-Treene,Drage,692
+2010,Amt Nordsee-Treene,Elisabeth-Sophien-Koog,277
+2011,Amt Nordsee-Treene,Elisabeth-Sophien-Koog,261
+2012,Amt Nordsee-Treene,Elisabeth-Sophien-Koog,400
+2013,Amt Nordsee-Treene,Elisabeth-Sophien-Koog,366
+2014,Amt Nordsee-Treene,Elisabeth-Sophien-Koog,581
+2015,Amt Nordsee-Treene,Elisabeth-Sophien-Koog,600
+2016,Amt Nordsee-Treene,Elisabeth-Sophien-Koog,587
+2017,Amt Nordsee-Treene,Elisabeth-Sophien-Koog,604
+2018,Amt Nordsee-Treene,Elisabeth-Sophien-Koog,744
+2019,Amt Nordsee-Treene,Elisabeth-Sophien-Koog,642
+2020,Amt Nordsee-Treene,Elisabeth-Sophien-Koog,796
+2021,Amt Nordsee-Treene,Elisabeth-Sophien-Koog,780
+2022,Amt Nordsee-Treene,Elisabeth-Sophien-Koog,824
+2010,Amt Nordsee-Treene,Fresendelf,691
+2011,Amt Nordsee-Treene,Fresendelf,690
+2012,Amt Nordsee-Treene,Fresendelf,742
+2013,Amt Nordsee-Treene,Fresendelf,708
+2014,Amt Nordsee-Treene,Fresendelf,656
+2015,Amt Nordsee-Treene,Fresendelf,670
+2016,Amt Nordsee-Treene,Fresendelf,722
+2017,Amt Nordsee-Treene,Fresendelf,691
+2018,Amt Nordsee-Treene,Fresendelf,681
+2019,Amt Nordsee-Treene,Fresendelf,753
+2020,Amt Nordsee-Treene,Fresendelf,742
+2021,Amt Nordsee-Treene,Fresendelf,731
+2022,Amt Nordsee-Treene,Fresendelf,699
+2010,Amt Nordsee-Treene,Friedrichstadt,481
+2011,Amt Nordsee-Treene,Friedrichstadt,489
+2012,Amt Nordsee-Treene,Friedrichstadt,468
+2013,Amt Nordsee-Treene,Friedrichstadt,490
+2014,Amt Nordsee-Treene,Friedrichstadt,499
+2015,Amt Nordsee-Treene,Friedrichstadt,501
+2016,Amt Nordsee-Treene,Friedrichstadt,506
+2017,Amt Nordsee-Treene,Friedrichstadt,509
+2018,Amt Nordsee-Treene,Friedrichstadt,506
+2019,Amt Nordsee-Treene,Friedrichstadt,510
+2020,Amt Nordsee-Treene,Friedrichstadt,514
+2021,Amt Nordsee-Treene,Friedrichstadt,519
+2022,Amt Nordsee-Treene,Friedrichstadt,542
+2010,Amt Nordsee-Treene,Hattstedt,539
+2011,Amt Nordsee-Treene,Hattstedt,550
+2012,Amt Nordsee-Treene,Hattstedt,535
+2013,Amt Nordsee-Treene,Hattstedt,541
+2014,Amt Nordsee-Treene,Hattstedt,535
+2015,Amt Nordsee-Treene,Hattstedt,550
+2016,Amt Nordsee-Treene,Hattstedt,567
+2017,Amt Nordsee-Treene,Hattstedt,581
+2018,Amt Nordsee-Treene,Hattstedt,592
+2019,Amt Nordsee-Treene,Hattstedt,598
+2020,Amt Nordsee-Treene,Hattstedt,621
+2021,Amt Nordsee-Treene,Hattstedt,624
+2022,Amt Nordsee-Treene,Hattstedt,633
+2010,Amt Nordsee-Treene,Hattstedtermarsch,571
+2011,Amt Nordsee-Treene,Hattstedtermarsch,574
+2012,Amt Nordsee-Treene,Hattstedtermarsch,635
+2013,Amt Nordsee-Treene,Hattstedtermarsch,647
+2014,Amt Nordsee-Treene,Hattstedtermarsch,660
+2015,Amt Nordsee-Treene,Hattstedtermarsch,674
+2016,Amt Nordsee-Treene,Hattstedtermarsch,693
+2017,Amt Nordsee-Treene,Hattstedtermarsch,719
+2018,Amt Nordsee-Treene,Hattstedtermarsch,762
+2019,Amt Nordsee-Treene,Hattstedtermarsch,737
+2020,Amt Nordsee-Treene,Hattstedtermarsch,743
+2021,Amt Nordsee-Treene,Hattstedtermarsch,775
+2022,Amt Nordsee-Treene,Hattstedtermarsch,747
+2010,Amt Nordsee-Treene,Horstedt,522
+2011,Amt Nordsee-Treene,Horstedt,521
+2012,Amt Nordsee-Treene,Horstedt,560
+2013,Amt Nordsee-Treene,Horstedt,578
+2014,Amt Nordsee-Treene,Horstedt,581
+2015,Amt Nordsee-Treene,Horstedt,592
+2016,Amt Nordsee-Treene,Horstedt,592
+2017,Amt Nordsee-Treene,Horstedt,601
+2018,Amt Nordsee-Treene,Horstedt,631
+2019,Amt Nordsee-Treene,Horstedt,648
+2020,Amt Nordsee-Treene,Horstedt,658
+2021,Amt Nordsee-Treene,Horstedt,644
+2022,Amt Nordsee-Treene,Horstedt,663
+2010,Amt Nordsee-Treene,Hude,521
+2011,Amt Nordsee-Treene,Hude,542
+2012,Amt Nordsee-Treene,Hude,505
+2013,Amt Nordsee-Treene,Hude,566
+2014,Amt Nordsee-Treene,Hude,519
+2015,Amt Nordsee-Treene,Hude,572
+2016,Amt Nordsee-Treene,Hude,554
+2017,Amt Nordsee-Treene,Hude,627
+2018,Amt Nordsee-Treene,Hude,609
+2019,Amt Nordsee-Treene,Hude,635
+2020,Amt Nordsee-Treene,Hude,665
+2021,Amt Nordsee-Treene,Hude,704
+2022,Amt Nordsee-Treene,Hude,685
+2010,Amt Nordsee-Treene,Koldenbüttel,527
+2011,Amt Nordsee-Treene,Koldenbüttel,541
+2012,Amt Nordsee-Treene,Koldenbüttel,555
+2013,Amt Nordsee-Treene,Koldenbüttel,566
+2014,Amt Nordsee-Treene,Koldenbüttel,592
+2015,Amt Nordsee-Treene,Koldenbüttel,608
+2016,Amt Nordsee-Treene,Koldenbüttel,627
+2017,Amt Nordsee-Treene,Koldenbüttel,645
+2018,Amt Nordsee-Treene,Koldenbüttel,660
+2019,Amt Nordsee-Treene,Koldenbüttel,672
+2020,Amt Nordsee-Treene,Koldenbüttel,693
+2021,Amt Nordsee-Treene,Koldenbüttel,707
+2022,Amt Nordsee-Treene,Koldenbüttel,723
+2010,Amt Nordsee-Treene,Mildstedt,496
+2011,Amt Nordsee-Treene,Mildstedt,514
+2012,Amt Nordsee-Treene,Mildstedt,526
+2013,Amt Nordsee-Treene,Mildstedt,532
+2014,Amt Nordsee-Treene,Mildstedt,542
+2015,Amt Nordsee-Treene,Mildstedt,564
+2016,Amt Nordsee-Treene,Mildstedt,572
+2017,Amt Nordsee-Treene,Mildstedt,589
+2018,Amt Nordsee-Treene,Mildstedt,598
+2019,Amt Nordsee-Treene,Mildstedt,603
+2020,Amt Nordsee-Treene,Mildstedt,608
+2021,Amt Nordsee-Treene,Mildstedt,616
+2022,Amt Nordsee-Treene,Mildstedt,627
+2010,Amt Nordsee-Treene,Nordstrand,553
+2011,Amt Nordsee-Treene,Nordstrand,581
+2012,Amt Nordsee-Treene,Nordstrand,580
+2013,Amt Nordsee-Treene,Nordstrand,587
+2014,Amt Nordsee-Treene,Nordstrand,585
+2015,Amt Nordsee-Treene,Nordstrand,589
+2016,Amt Nordsee-Treene,Nordstrand,593
+2017,Amt Nordsee-Treene,Nordstrand,607
+2018,Amt Nordsee-Treene,Nordstrand,614
+2019,Amt Nordsee-Treene,Nordstrand,627
+2020,Amt Nordsee-Treene,Nordstrand,632
+2021,Amt Nordsee-Treene,Nordstrand,651
+2022,Amt Nordsee-Treene,Nordstrand,665
+2010,Amt Nordsee-Treene,Oldersbek,587
+2011,Amt Nordsee-Treene,Oldersbek,578
+2012,Amt Nordsee-Treene,Oldersbek,571
+2013,Amt Nordsee-Treene,Oldersbek,617
+2014,Amt Nordsee-Treene,Oldersbek,615
+2015,Amt Nordsee-Treene,Oldersbek,619
+2016,Amt Nordsee-Treene,Oldersbek,650
+2017,Amt Nordsee-Treene,Oldersbek,661
+2018,Amt Nordsee-Treene,Oldersbek,662
+2019,Amt Nordsee-Treene,Oldersbek,660
+2020,Amt Nordsee-Treene,Oldersbek,668
+2021,Amt Nordsee-Treene,Oldersbek,673
+2022,Amt Nordsee-Treene,Oldersbek,689
+2010,Amt Nordsee-Treene,Olderup,535
+2011,Amt Nordsee-Treene,Olderup,547
+2012,Amt Nordsee-Treene,Olderup,561
+2013,Amt Nordsee-Treene,Olderup,569
+2014,Amt Nordsee-Treene,Olderup,577
+2015,Amt Nordsee-Treene,Olderup,590
+2016,Amt Nordsee-Treene,Olderup,610
+2017,Amt Nordsee-Treene,Olderup,618
+2018,Amt Nordsee-Treene,Olderup,615
+2019,Amt Nordsee-Treene,Olderup,605
+2020,Amt Nordsee-Treene,Olderup,638
+2021,Amt Nordsee-Treene,Olderup,664
+2022,Amt Nordsee-Treene,Olderup,637
+2010,Amt Nordsee-Treene,Ostenfeld,562
+2011,Amt Nordsee-Treene,Ostenfeld,578
+2012,Amt Nordsee-Treene,Ostenfeld,585
+2013,Amt Nordsee-Treene,Ostenfeld,598
+2014,Amt Nordsee-Treene,Ostenfeld,608
+2015,Amt Nordsee-Treene,Ostenfeld,620
+2016,Amt Nordsee-Treene,Ostenfeld,613
+2017,Amt Nordsee-Treene,Ostenfeld,643
+2018,Amt Nordsee-Treene,Ostenfeld,646
+2019,Amt Nordsee-Treene,Ostenfeld,677
+2020,Amt Nordsee-Treene,Ostenfeld,694
+2021,Amt Nordsee-Treene,Ostenfeld,717
+2022,Amt Nordsee-Treene,Ostenfeld,717
+2010,Amt Nordsee-Treene,Ramstedt,555
+2011,Amt Nordsee-Treene,Ramstedt,574
+2012,Amt Nordsee-Treene,Ramstedt,591
+2013,Amt Nordsee-Treene,Ramstedt,605
+2014,Amt Nordsee-Treene,Ramstedt,645
+2015,Amt Nordsee-Treene,Ramstedt,638
+2016,Amt Nordsee-Treene,Ramstedt,618
+2017,Amt Nordsee-Treene,Ramstedt,654
+2018,Amt Nordsee-Treene,Ramstedt,659
+2019,Amt Nordsee-Treene,Ramstedt,702
+2020,Amt Nordsee-Treene,Ramstedt,717
+2021,Amt Nordsee-Treene,Ramstedt,707
+2022,Amt Nordsee-Treene,Ramstedt,714
+2010,Amt Nordsee-Treene,Rantrum,540
+2011,Amt Nordsee-Treene,Rantrum,550
+2012,Amt Nordsee-Treene,Rantrum,572
+2013,Amt Nordsee-Treene,Rantrum,574
+2014,Amt Nordsee-Treene,Rantrum,587
+2015,Amt Nordsee-Treene,Rantrum,597
+2016,Amt Nordsee-Treene,Rantrum,618
+2017,Amt Nordsee-Treene,Rantrum,626
+2018,Amt Nordsee-Treene,Rantrum,636
+2019,Amt Nordsee-Treene,Rantrum,640
+2020,Amt Nordsee-Treene,Rantrum,656
+2021,Amt Nordsee-Treene,Rantrum,679
+2022,Amt Nordsee-Treene,Rantrum,675
+2010,Amt Nordsee-Treene,Schwabstedt,521
+2011,Amt Nordsee-Treene,Schwabstedt,530
+2012,Amt Nordsee-Treene,Schwabstedt,530
+2013,Amt Nordsee-Treene,Schwabstedt,526
+2014,Amt Nordsee-Treene,Schwabstedt,534
+2015,Amt Nordsee-Treene,Schwabstedt,545
+2016,Amt Nordsee-Treene,Schwabstedt,558
+2017,Amt Nordsee-Treene,Schwabstedt,565
+2018,Amt Nordsee-Treene,Schwabstedt,588
+2019,Amt Nordsee-Treene,Schwabstedt,586
+2020,Amt Nordsee-Treene,Schwabstedt,607
+2021,Amt Nordsee-Treene,Schwabstedt,613
+2022,Amt Nordsee-Treene,Schwabstedt,642
+2010,Amt Nordsee-Treene,Seeth,449
+2011,Amt Nordsee-Treene,Seeth,445
+2012,Amt Nordsee-Treene,Seeth,522
+2013,Amt Nordsee-Treene,Seeth,516
+2014,Amt Nordsee-Treene,Seeth,538
+2015,Amt Nordsee-Treene,Seeth,538
+2016,Amt Nordsee-Treene,Seeth,222
+2017,Amt Nordsee-Treene,Seeth,400
+2018,Amt Nordsee-Treene,Seeth,412
+2019,Amt Nordsee-Treene,Seeth,433
+2020,Amt Nordsee-Treene,Seeth,443
+2021,Amt Nordsee-Treene,Seeth,456
+2022,Amt Nordsee-Treene,Seeth,463
+2010,Amt Nordsee-Treene,Simonsberg,604
+2011,Amt Nordsee-Treene,Simonsberg,630
+2012,Amt Nordsee-Treene,Simonsberg,610
+2013,Amt Nordsee-Treene,Simonsberg,609
+2014,Amt Nordsee-Treene,Simonsberg,637
+2015,Amt Nordsee-Treene,Simonsberg,623
+2016,Amt Nordsee-Treene,Simonsberg,628
+2017,Amt Nordsee-Treene,Simonsberg,614
+2018,Amt Nordsee-Treene,Simonsberg,614
+2019,Amt Nordsee-Treene,Simonsberg,626
+2020,Amt Nordsee-Treene,Simonsberg,636
+2021,Amt Nordsee-Treene,Simonsberg,652
+2022,Amt Nordsee-Treene,Simonsberg,660
+2010,Amt Nordsee-Treene,Süderhöft,652
+2011,Amt Nordsee-Treene,Süderhöft,696
+2012,Amt Nordsee-Treene,Süderhöft,947
+2013,Amt Nordsee-Treene,Süderhöft,950
+2014,Amt Nordsee-Treene,Süderhöft,850
+2015,Amt Nordsee-Treene,Süderhöft,700
+2016,Amt Nordsee-Treene,Süderhöft,632
+2017,Amt Nordsee-Treene,Süderhöft,500
+2018,Amt Nordsee-Treene,Süderhöft,591
+2019,Amt Nordsee-Treene,Süderhöft,643
+2020,Amt Nordsee-Treene,Süderhöft,692
+2021,Amt Nordsee-Treene,Süderhöft,529
+2022,Amt Nordsee-Treene,Süderhöft,571
+2010,Amt Nordsee-Treene,Südermarsch,540
+2011,Amt Nordsee-Treene,Südermarsch,553
+2012,Amt Nordsee-Treene,Südermarsch,550
+2013,Amt Nordsee-Treene,Südermarsch,627
+2014,Amt Nordsee-Treene,Südermarsch,557
+2015,Amt Nordsee-Treene,Südermarsch,571
+2016,Amt Nordsee-Treene,Südermarsch,556
+2017,Amt Nordsee-Treene,Südermarsch,599
+2018,Amt Nordsee-Treene,Südermarsch,674
+2019,Amt Nordsee-Treene,Südermarsch,667
+2020,Amt Nordsee-Treene,Südermarsch,646
+2021,Amt Nordsee-Treene,Südermarsch,643
+2022,Amt Nordsee-Treene,Südermarsch,672
+2010,Amt Nordsee-Treene,Uelvesbüll,611
+2011,Amt Nordsee-Treene,Uelvesbüll,654
+2012,Amt Nordsee-Treene,Uelvesbüll,609
+2013,Amt Nordsee-Treene,Uelvesbüll,606
+2014,Amt Nordsee-Treene,Uelvesbüll,615
+2015,Amt Nordsee-Treene,Uelvesbüll,643
+2016,Amt Nordsee-Treene,Uelvesbüll,661
+2017,Amt Nordsee-Treene,Uelvesbüll,698
+2018,Amt Nordsee-Treene,Uelvesbüll,667
+2019,Amt Nordsee-Treene,Uelvesbüll,658
+2020,Amt Nordsee-Treene,Uelvesbüll,687
+2021,Amt Nordsee-Treene,Uelvesbüll,677
+2022,Amt Nordsee-Treene,Uelvesbüll,721
+2010,Amt Nordsee-Treene,Winnert,569
+2011,Amt Nordsee-Treene,Winnert,584
+2012,Amt Nordsee-Treene,Winnert,607
+2013,Amt Nordsee-Treene,Winnert,626
+2014,Amt Nordsee-Treene,Winnert,625
+2015,Amt Nordsee-Treene,Winnert,631
+2016,Amt Nordsee-Treene,Winnert,613
+2017,Amt Nordsee-Treene,Winnert,616
+2018,Amt Nordsee-Treene,Winnert,641
+2019,Amt Nordsee-Treene,Winnert,681
+2020,Amt Nordsee-Treene,Winnert,697
+2021,Amt Nordsee-Treene,Winnert,685
+2022,Amt Nordsee-Treene,Winnert,699
+2010,Amt Nordsee-Treene,Wisch,537
+2011,Amt Nordsee-Treene,Wisch,516
+2012,Amt Nordsee-Treene,Wisch,566
+2013,Amt Nordsee-Treene,Wisch,566
+2014,Amt Nordsee-Treene,Wisch,673
+2015,Amt Nordsee-Treene,Wisch,699
+2016,Amt Nordsee-Treene,Wisch,625
+2017,Amt Nordsee-Treene,Wisch,630
+2018,Amt Nordsee-Treene,Wisch,686
+2019,Amt Nordsee-Treene,Wisch,641
+2020,Amt Nordsee-Treene,Wisch,628
+2021,Amt Nordsee-Treene,Wisch,636
+2022,Amt Nordsee-Treene,Wisch,700
+2010,Amt Nordsee-Treene,Wittbek,528
+2011,Amt Nordsee-Treene,Wittbek,545
+2012,Amt Nordsee-Treene,Wittbek,541
+2013,Amt Nordsee-Treene,Wittbek,565
+2014,Amt Nordsee-Treene,Wittbek,568
+2015,Amt Nordsee-Treene,Wittbek,592
+2016,Amt Nordsee-Treene,Wittbek,626
+2017,Amt Nordsee-Treene,Wittbek,626
+2018,Amt Nordsee-Treene,Wittbek,642
+2019,Amt Nordsee-Treene,Wittbek,646
+2020,Amt Nordsee-Treene,Wittbek,661
+2021,Amt Nordsee-Treene,Wittbek,673
+2022,Amt Nordsee-Treene,Wittbek,693
+2010,Amt Nordsee-Treene,Witzwort,585
+2011,Amt Nordsee-Treene,Witzwort,590
+2012,Amt Nordsee-Treene,Witzwort,572
+2013,Amt Nordsee-Treene,Witzwort,590
+2014,Amt Nordsee-Treene,Witzwort,584
+2015,Amt Nordsee-Treene,Witzwort,596
+2016,Amt Nordsee-Treene,Witzwort,603
+2017,Amt Nordsee-Treene,Witzwort,613
+2018,Amt Nordsee-Treene,Witzwort,622
+2019,Amt Nordsee-Treene,Witzwort,638
+2020,Amt Nordsee-Treene,Witzwort,655
+2021,Amt Nordsee-Treene,Witzwort,680
+2022,Amt Nordsee-Treene,Witzwort,688
+2010,Amt Nordsee-Treene,Wobbenbüll,538
+2011,Amt Nordsee-Treene,Wobbenbüll,555
+2012,Amt Nordsee-Treene,Wobbenbüll,576
+2013,Amt Nordsee-Treene,Wobbenbüll,607
+2014,Amt Nordsee-Treene,Wobbenbüll,600
+2015,Amt Nordsee-Treene,Wobbenbüll,611
+2016,Amt Nordsee-Treene,Wobbenbüll,599
+2017,Amt Nordsee-Treene,Wobbenbüll,626
+2018,Amt Nordsee-Treene,Wobbenbüll,613
+2019,Amt Nordsee-Treene,Wobbenbüll,633
+2020,Amt Nordsee-Treene,Wobbenbüll,655
+2021,Amt Nordsee-Treene,Wobbenbüll,641
+2022,Amt Nordsee-Treene,Wobbenbüll,659
+2010,Amt Pellworm,Gröde,700
+2011,Amt Pellworm,Gröde,875
+2012,Amt Pellworm,Gröde,818
+2013,Amt Pellworm,Gröde,818
+2014,Amt Pellworm,Gröde,889
+2015,Amt Pellworm,Gröde,667
+2016,Amt Pellworm,Gröde,889
+2017,Amt Pellworm,Gröde,1000
+2018,Amt Pellworm,Gröde,889
+2019,Amt Pellworm,Gröde,857
+2020,Amt Pellworm,Gröde,600
+2021,Amt Pellworm,Gröde,455
+2022,Amt Pellworm,Gröde,500
+2010,Amt Pellworm,Hooge,724
+2011,Amt Pellworm,Hooge,711
+2012,Amt Pellworm,Hooge,594
+2013,Amt Pellworm,Hooge,578
+2014,Amt Pellworm,Hooge,621
+2015,Amt Pellworm,Hooge,610
+2016,Amt Pellworm,Hooge,621
+2017,Amt Pellworm,Hooge,637
+2018,Amt Pellworm,Hooge,684
+2019,Amt Pellworm,Hooge,685
+2020,Amt Pellworm,Hooge,602
+2021,Amt Pellworm,Hooge,563
+2022,Amt Pellworm,Hooge,600
+2010,Amt Pellworm,Langeneß,612
+2011,Amt Pellworm,Langeneß,618
+2012,Amt Pellworm,Langeneß,597
+2013,Amt Pellworm,Langeneß,634
+2014,Amt Pellworm,Langeneß,657
+2015,Amt Pellworm,Langeneß,632
+2016,Amt Pellworm,Langeneß,677
+2017,Amt Pellworm,Langeneß,669
+2018,Amt Pellworm,Langeneß,679
+2019,Amt Pellworm,Langeneß,734
+2020,Amt Pellworm,Langeneß,768
+2021,Amt Pellworm,Langeneß,829
+2022,Amt Pellworm,Langeneß,848
+2010,Amt Pellworm,Pellworm,659
+2011,Amt Pellworm,Pellworm,654
+2012,Amt Pellworm,Pellworm,596
+2013,Amt Pellworm,Pellworm,599
+2014,Amt Pellworm,Pellworm,601
+2015,Amt Pellworm,Pellworm,598
+2016,Amt Pellworm,Pellworm,613
+2017,Amt Pellworm,Pellworm,627
+2018,Amt Pellworm,Pellworm,633
+2019,Amt Pellworm,Pellworm,653
+2020,Amt Pellworm,Pellworm,669
+2021,Amt Pellworm,Pellworm,676
+2022,Amt Pellworm,Pellworm,668
+2010,Amt Südtondern,Achtrup,586
+2011,Amt Südtondern,Achtrup,604
+2012,Amt Südtondern,Achtrup,611
+2013,Amt Südtondern,Achtrup,632
+2014,Amt Südtondern,Achtrup,641
+2015,Amt Südtondern,Achtrup,647
+2016,Amt Südtondern,Achtrup,669
+2017,Amt Südtondern,Achtrup,672
+2018,Amt Südtondern,Achtrup,669
+2019,Amt Südtondern,Achtrup,674
+2020,Amt Südtondern,Achtrup,668
+2021,Amt Südtondern,Achtrup,670
+2022,Amt Südtondern,Achtrup,664
+2010,Amt Südtondern,Aventoft,652
+2011,Amt Südtondern,Aventoft,651
+2012,Amt Südtondern,Aventoft,657
+2013,Amt Südtondern,Aventoft,628
+2014,Amt Südtondern,Aventoft,649
+2015,Amt Südtondern,Aventoft,644
+2016,Amt Südtondern,Aventoft,642
+2017,Amt Südtondern,Aventoft,691
+2018,Amt Südtondern,Aventoft,670
+2019,Amt Südtondern,Aventoft,710
+2020,Amt Südtondern,Aventoft,735
+2021,Amt Südtondern,Aventoft,790
+2022,Amt Südtondern,Aventoft,796
+2010,Amt Südtondern,Bosbüll,555
+2011,Amt Südtondern,Bosbüll,565
+2012,Amt Südtondern,Bosbüll,591
+2013,Amt Südtondern,Bosbüll,590
+2014,Amt Südtondern,Bosbüll,603
+2015,Amt Südtondern,Bosbüll,633
+2016,Amt Südtondern,Bosbüll,623
+2017,Amt Südtondern,Bosbüll,602
+2018,Amt Südtondern,Bosbüll,613
+2019,Amt Südtondern,Bosbüll,632
+2020,Amt Südtondern,Bosbüll,602
+2021,Amt Südtondern,Bosbüll,658
+2022,Amt Südtondern,Bosbüll,681
+2010,Amt Südtondern,Braderup,655
+2011,Amt Südtondern,Braderup,667
+2012,Amt Südtondern,Braderup,648
+2013,Amt Südtondern,Braderup,640
+2014,Amt Südtondern,Braderup,634
+2015,Amt Südtondern,Braderup,648
+2016,Amt Südtondern,Braderup,642
+2017,Amt Südtondern,Braderup,657
+2018,Amt Südtondern,Braderup,665
+2019,Amt Südtondern,Braderup,659
+2020,Amt Südtondern,Braderup,644
+2021,Amt Südtondern,Braderup,704
+2022,Amt Südtondern,Braderup,725
+2010,Amt Südtondern,Bramstedtlund,641
+2011,Amt Südtondern,Bramstedtlund,645
+2012,Amt Südtondern,Bramstedtlund,734
+2013,Amt Südtondern,Bramstedtlund,668
+2014,Amt Südtondern,Bramstedtlund,670
+2015,Amt Südtondern,Bramstedtlund,740
+2016,Amt Südtondern,Bramstedtlund,739
+2017,Amt Südtondern,Bramstedtlund,746
+2018,Amt Südtondern,Bramstedtlund,714
+2019,Amt Südtondern,Bramstedtlund,690
+2020,Amt Südtondern,Bramstedtlund,698
+2021,Amt Südtondern,Bramstedtlund,705
+2022,Amt Südtondern,Bramstedtlund,711
+2010,Amt Südtondern,Dagebüll,596
+2011,Amt Südtondern,Dagebüll,600
+2012,Amt Südtondern,Dagebüll,606
+2013,Amt Südtondern,Dagebüll,618
+2014,Amt Südtondern,Dagebüll,617
+2015,Amt Südtondern,Dagebüll,626
+2016,Amt Südtondern,Dagebüll,620
+2017,Amt Südtondern,Dagebüll,634
+2018,Amt Südtondern,Dagebüll,672
+2019,Amt Südtondern,Dagebüll,695
+2020,Amt Südtondern,Dagebüll,697
+2021,Amt Südtondern,Dagebüll,688
+2022,Amt Südtondern,Dagebüll,697
+2010,Amt Südtondern,Ellhöft,636
+2011,Amt Südtondern,Ellhöft,633
+2012,Amt Südtondern,Ellhöft,586
+2013,Amt Südtondern,Ellhöft,660
+2014,Amt Südtondern,Ellhöft,676
+2015,Amt Südtondern,Ellhöft,699
+2016,Amt Südtondern,Ellhöft,667
+2017,Amt Südtondern,Ellhöft,782
+2018,Amt Südtondern,Ellhöft,790
+2019,Amt Südtondern,Ellhöft,743
+2020,Amt Südtondern,Ellhöft,761
+2021,Amt Südtondern,Ellhöft,802
+2022,Amt Südtondern,Ellhöft,798
+2010,Amt Südtondern,Emmelsbüll-Horsbüll,564
+2011,Amt Südtondern,Emmelsbüll-Horsbüll,570
+2012,Amt Südtondern,Emmelsbüll-Horsbüll,560
+2013,Amt Südtondern,Emmelsbüll-Horsbüll,573
+2014,Amt Südtondern,Emmelsbüll-Horsbüll,580
+2015,Amt Südtondern,Emmelsbüll-Horsbüll,607
+2016,Amt Südtondern,Emmelsbüll-Horsbüll,635
+2017,Amt Südtondern,Emmelsbüll-Horsbüll,649
+2018,Amt Südtondern,Emmelsbüll-Horsbüll,662
+2019,Amt Südtondern,Emmelsbüll-Horsbüll,672
+2020,Amt Südtondern,Emmelsbüll-Horsbüll,666
+2021,Amt Südtondern,Emmelsbüll-Horsbüll,655
+2022,Amt Südtondern,Emmelsbüll-Horsbüll,676
+2010,Amt Südtondern,Enge-Sande,578
+2011,Amt Südtondern,Enge-Sande,607
+2012,Amt Südtondern,Enge-Sande,606
+2013,Amt Südtondern,Enge-Sande,631
+2014,Amt Südtondern,Enge-Sande,645
+2015,Amt Südtondern,Enge-Sande,659
+2016,Amt Südtondern,Enge-Sande,665
+2017,Amt Südtondern,Enge-Sande,687
+2018,Amt Südtondern,Enge-Sande,724
+2019,Amt Südtondern,Enge-Sande,729
+2020,Amt Südtondern,Enge-Sande,733
+2021,Amt Südtondern,Enge-Sande,722
+2022,Amt Südtondern,Enge-Sande,736
+2010,Amt Südtondern,Friedrich-Wilh.-Lübke-Koog,644
+2011,Amt Südtondern,Friedrich-Wilh.-Lübke-Koog,690
+2012,Amt Südtondern,Friedrich-Wilh.-Lübke-Koog,659
+2013,Amt Südtondern,Friedrich-Wilh.-Lübke-Koog,652
+2014,Amt Südtondern,Friedrich-Wilh.-Lübke-Koog,670
+2015,Amt Südtondern,Friedrich-Wilh.-Lübke-Koog,723
+2016,Amt Südtondern,Friedrich-Wilh.-Lübke-Koog,772
+2017,Amt Südtondern,Friedrich-Wilh.-Lübke-Koog,741
+2018,Amt Südtondern,Friedrich-Wilh.-Lübke-Koog,705
+2019,Amt Südtondern,Friedrich-Wilh.-Lübke-Koog,723
+2020,Amt Südtondern,Friedrich-Wilh.-Lübke-Koog,721
+2021,Amt Südtondern,Friedrich-Wilh.-Lübke-Koog,770
+2022,Amt Südtondern,Friedrich-Wilh.-Lübke-Koog,753
+2010,Amt Südtondern,Galmsbüll,568
+2011,Amt Südtondern,Galmsbüll,590
+2012,Amt Südtondern,Galmsbüll,614
+2013,Amt Südtondern,Galmsbüll,626
+2014,Amt Südtondern,Galmsbüll,624
+2015,Amt Südtondern,Galmsbüll,658
+2016,Amt Südtondern,Galmsbüll,681
+2017,Amt Südtondern,Galmsbüll,696
+2018,Amt Südtondern,Galmsbüll,679
+2019,Amt Südtondern,Galmsbüll,659
+2020,Amt Südtondern,Galmsbüll,688
+2021,Amt Südtondern,Galmsbüll,718
+2022,Amt Südtondern,Galmsbüll,736
+2010,Amt Südtondern,Holm,663
+2011,Amt Südtondern,Holm,711
+2012,Amt Südtondern,Holm,718
+2013,Amt Südtondern,Holm,636
+2014,Amt Südtondern,Holm,654
+2015,Amt Südtondern,Holm,675
+2016,Amt Südtondern,Holm,684
+2017,Amt Südtondern,Holm,697
+2018,Amt Südtondern,Holm,750
+2019,Amt Südtondern,Holm,704
+2020,Amt Südtondern,Holm,744
+2021,Amt Südtondern,Holm,772
+2022,Amt Südtondern,Holm,710
+2010,Amt Südtondern,Humptrup,579
+2011,Amt Südtondern,Humptrup,591
+2012,Amt Südtondern,Humptrup,630
+2013,Amt Südtondern,Humptrup,620
+2014,Amt Südtondern,Humptrup,607
+2015,Amt Südtondern,Humptrup,644
+2016,Amt Südtondern,Humptrup,642
+2017,Amt Südtondern,Humptrup,615
+2018,Amt Südtondern,Humptrup,628
+2019,Amt Südtondern,Humptrup,621
+2020,Amt Südtondern,Humptrup,629
+2021,Amt Südtondern,Humptrup,636
+2022,Amt Südtondern,Humptrup,661
+2010,Amt Südtondern,Karlum,591
+2011,Amt Südtondern,Karlum,605
+2012,Amt Südtondern,Karlum,607
+2013,Amt Südtondern,Karlum,651
+2014,Amt Südtondern,Karlum,673
+2015,Amt Südtondern,Karlum,638
+2016,Amt Südtondern,Karlum,673
+2017,Amt Südtondern,Karlum,668
+2018,Amt Südtondern,Karlum,660
+2019,Amt Südtondern,Karlum,702
+2020,Amt Südtondern,Karlum,693
+2021,Amt Südtondern,Karlum,770
+2022,Amt Südtondern,Karlum,739
+2010,Amt Südtondern,Klanxbüll,458
+2011,Amt Südtondern,Klanxbüll,481
+2012,Amt Südtondern,Klanxbüll,483
+2013,Amt Südtondern,Klanxbüll,479
+2014,Amt Südtondern,Klanxbüll,473
+2015,Amt Südtondern,Klanxbüll,457
+2016,Amt Südtondern,Klanxbüll,476
+2017,Amt Südtondern,Klanxbüll,478
+2018,Amt Südtondern,Klanxbüll,497
+2019,Amt Südtondern,Klanxbüll,504
+2020,Amt Südtondern,Klanxbüll,521
+2021,Amt Südtondern,Klanxbüll,529
+2022,Amt Südtondern,Klanxbüll,518
+2010,Amt Südtondern,Klixbüll,547
+2011,Amt Südtondern,Klixbüll,571
+2012,Amt Südtondern,Klixbüll,589
+2013,Amt Südtondern,Klixbüll,573
+2014,Amt Südtondern,Klixbüll,582
+2015,Amt Südtondern,Klixbüll,582
+2016,Amt Südtondern,Klixbüll,611
+2017,Amt Südtondern,Klixbüll,609
+2018,Amt Südtondern,Klixbüll,610
+2019,Amt Südtondern,Klixbüll,618
+2020,Amt Südtondern,Klixbüll,613
+2021,Amt Südtondern,Klixbüll,607
+2022,Amt Südtondern,Klixbüll,616
+2010,Amt Südtondern,Ladelund,556
+2011,Amt Südtondern,Ladelund,576
+2012,Amt Südtondern,Ladelund,570
+2013,Amt Südtondern,Ladelund,587
+2014,Amt Südtondern,Ladelund,590
+2015,Amt Südtondern,Ladelund,616
+2016,Amt Südtondern,Ladelund,608
+2017,Amt Südtondern,Ladelund,621
+2018,Amt Südtondern,Ladelund,628
+2019,Amt Südtondern,Ladelund,652
+2020,Amt Südtondern,Ladelund,666
+2021,Amt Südtondern,Ladelund,678
+2022,Amt Südtondern,Ladelund,667
+2010,Amt Südtondern,Leck,512
+2011,Amt Südtondern,Leck,525
+2012,Amt Südtondern,Leck,530
+2013,Amt Südtondern,Leck,534
+2014,Amt Südtondern,Leck,536
+2015,Amt Südtondern,Leck,540
+2016,Amt Südtondern,Leck,542
+2017,Amt Südtondern,Leck,542
+2018,Amt Südtondern,Leck,550
+2019,Amt Südtondern,Leck,559
+2020,Amt Südtondern,Leck,573
+2021,Amt Südtondern,Leck,577
+2022,Amt Südtondern,Leck,578
+2010,Amt Südtondern,Lexgaard,639
+2011,Amt Südtondern,Lexgaard,719
+2012,Amt Südtondern,Lexgaard,870
+2013,Amt Südtondern,Lexgaard,877
+2014,Amt Südtondern,Lexgaard,821
+2015,Amt Südtondern,Lexgaard,719
+2016,Amt Südtondern,Lexgaard,725
+2017,Amt Südtondern,Lexgaard,720
+2018,Amt Südtondern,Lexgaard,833
+2019,Amt Südtondern,Lexgaard,860
+2020,Amt Südtondern,Lexgaard,885
+2021,Amt Südtondern,Lexgaard,865
+2022,Amt Südtondern,Lexgaard,865
+2010,Amt Südtondern,Neukirchen,547
+2011,Amt Südtondern,Neukirchen,539
+2012,Amt Südtondern,Neukirchen,569
+2013,Amt Südtondern,Neukirchen,589
+2014,Amt Südtondern,Neukirchen,612
+2015,Amt Südtondern,Neukirchen,616
+2016,Amt Südtondern,Neukirchen,630
+2017,Amt Südtondern,Neukirchen,632
+2018,Amt Südtondern,Neukirchen,642
+2019,Amt Südtondern,Neukirchen,660
+2020,Amt Südtondern,Neukirchen,649
+2021,Amt Südtondern,Neukirchen,652
+2022,Amt Südtondern,Neukirchen,670
+2010,Amt Südtondern,Niebüll,473
+2011,Amt Südtondern,Niebüll,479
+2012,Amt Südtondern,Niebüll,471
+2013,Amt Südtondern,Niebüll,474
+2014,Amt Südtondern,Niebüll,485
+2015,Amt Südtondern,Niebüll,489
+2016,Amt Südtondern,Niebüll,490
+2017,Amt Südtondern,Niebüll,502
+2018,Amt Südtondern,Niebüll,505
+2019,Amt Südtondern,Niebüll,518
+2020,Amt Südtondern,Niebüll,524
+2021,Amt Südtondern,Niebüll,533
+2022,Amt Südtondern,Niebüll,539
+2010,Amt Südtondern,Risum-Lindholm,544
+2011,Amt Südtondern,Risum-Lindholm,553
+2012,Amt Südtondern,Risum-Lindholm,563
+2013,Amt Südtondern,Risum-Lindholm,578
+2014,Amt Südtondern,Risum-Lindholm,578
+2015,Amt Südtondern,Risum-Lindholm,587
+2016,Amt Südtondern,Risum-Lindholm,599
+2017,Amt Südtondern,Risum-Lindholm,611
+2018,Amt Südtondern,Risum-Lindholm,619
+2019,Amt Südtondern,Risum-Lindholm,631
+2020,Amt Südtondern,Risum-Lindholm,639
+2021,Amt Südtondern,Risum-Lindholm,638
+2022,Amt Südtondern,Risum-Lindholm,646
+2010,Amt Südtondern,Rodenäs,635
+2011,Amt Südtondern,Rodenäs,622
+2012,Amt Südtondern,Rodenäs,603
+2013,Amt Südtondern,Rodenäs,644
+2014,Amt Südtondern,Rodenäs,646
+2015,Amt Südtondern,Rodenäs,667
+2016,Amt Südtondern,Rodenäs,692
+2017,Amt Südtondern,Rodenäs,689
+2018,Amt Südtondern,Rodenäs,693
+2019,Amt Südtondern,Rodenäs,706
+2020,Amt Südtondern,Rodenäs,692
+2021,Amt Südtondern,Rodenäs,709
+2022,Amt Südtondern,Rodenäs,732
+2010,Amt Südtondern,Sprakebüll,627
+2011,Amt Südtondern,Sprakebüll,616
+2012,Amt Südtondern,Sprakebüll,685
+2013,Amt Südtondern,Sprakebüll,621
+2014,Amt Südtondern,Sprakebüll,639
+2015,Amt Südtondern,Sprakebüll,613
+2016,Amt Südtondern,Sprakebüll,653
+2017,Amt Südtondern,Sprakebüll,676
+2018,Amt Südtondern,Sprakebüll,696
+2019,Amt Südtondern,Sprakebüll,733
+2020,Amt Südtondern,Sprakebüll,699
+2021,Amt Südtondern,Sprakebüll,741
+2022,Amt Südtondern,Sprakebüll,682
+2010,Amt Südtondern,Stadum,565
+2011,Amt Südtondern,Stadum,585
+2012,Amt Südtondern,Stadum,599
+2013,Amt Südtondern,Stadum,586
+2014,Amt Südtondern,Stadum,596
+2015,Amt Südtondern,Stadum,599
+2016,Amt Südtondern,Stadum,637
+2017,Amt Südtondern,Stadum,653
+2018,Amt Südtondern,Stadum,664
+2019,Amt Südtondern,Stadum,681
+2020,Amt Südtondern,Stadum,684
+2021,Amt Südtondern,Stadum,705
+2022,Amt Südtondern,Stadum,710
+2010,Amt Südtondern,Stedesand,525
+2011,Amt Südtondern,Stedesand,537
+2012,Amt Südtondern,Stedesand,561
+2013,Amt Südtondern,Stedesand,576
+2014,Amt Südtondern,Stedesand,553
+2015,Amt Südtondern,Stedesand,550
+2016,Amt Südtondern,Stedesand,570
+2017,Amt Südtondern,Stedesand,603
+2018,Amt Südtondern,Stedesand,619
+2019,Amt Südtondern,Stedesand,620
+2020,Amt Südtondern,Stedesand,640
+2021,Amt Südtondern,Stedesand,623
+2022,Amt Südtondern,Stedesand,629
+2010,Amt Südtondern,Süderlügum,588
+2011,Amt Südtondern,Süderlügum,604
+2012,Amt Südtondern,Süderlügum,595
+2013,Amt Südtondern,Süderlügum,592
+2014,Amt Südtondern,Süderlügum,602
+2015,Amt Südtondern,Süderlügum,609
+2016,Amt Südtondern,Süderlügum,622
+2017,Amt Südtondern,Süderlügum,631
+2018,Amt Südtondern,Süderlügum,634
+2019,Amt Südtondern,Süderlügum,647
+2020,Amt Südtondern,Süderlügum,657
+2021,Amt Südtondern,Süderlügum,656
+2022,Amt Südtondern,Süderlügum,673
+2010,Amt Südtondern,Tinningstedt,640
+2011,Amt Südtondern,Tinningstedt,588
+2012,Amt Südtondern,Tinningstedt,562
+2013,Amt Südtondern,Tinningstedt,560
+2014,Amt Südtondern,Tinningstedt,584
+2015,Amt Südtondern,Tinningstedt,614
+2016,Amt Südtondern,Tinningstedt,611
+2017,Amt Südtondern,Tinningstedt,638
+2018,Amt Südtondern,Tinningstedt,625
+2019,Amt Südtondern,Tinningstedt,650
+2020,Amt Südtondern,Tinningstedt,676
+2021,Amt Südtondern,Tinningstedt,675
+2022,Amt Südtondern,Tinningstedt,680
+2010,Amt Südtondern,Uphusum,555
+2011,Amt Südtondern,Uphusum,562
+2012,Amt Südtondern,Uphusum,610
+2013,Amt Südtondern,Uphusum,612
+2014,Amt Südtondern,Uphusum,605
+2015,Amt Südtondern,Uphusum,621
+2016,Amt Südtondern,Uphusum,634
+2017,Amt Südtondern,Uphusum,657
+2018,Amt Südtondern,Uphusum,652
+2019,Amt Südtondern,Uphusum,671
+2020,Amt Südtondern,Uphusum,694
+2021,Amt Südtondern,Uphusum,718
+2022,Amt Südtondern,Uphusum,744
+2010,Amt Südtondern,Westre,562
+2011,Amt Südtondern,Westre,581
+2012,Amt Südtondern,Westre,610
+2013,Amt Südtondern,Westre,658
+2014,Amt Südtondern,Westre,668
+2015,Amt Südtondern,Westre,689
+2016,Amt Südtondern,Westre,718
+2017,Amt Südtondern,Westre,753
+2018,Amt Südtondern,Westre,749
+2019,Amt Südtondern,Westre,729
+2020,Amt Südtondern,Westre,735
+2021,Amt Südtondern,Westre,707
+2022,Amt Südtondern,Westre,685
+2010,Amt Viöl,Ahrenviöl,602
+2011,Amt Viöl,Ahrenviöl,611
+2012,Amt Viöl,Ahrenviöl,614
+2013,Amt Viöl,Ahrenviöl,613
+2014,Amt Viöl,Ahrenviöl,597
+2015,Amt Viöl,Ahrenviöl,636
+2016,Amt Viöl,Ahrenviöl,658
+2017,Amt Viöl,Ahrenviöl,637
+2018,Amt Viöl,Ahrenviöl,637
+2019,Amt Viöl,Ahrenviöl,643
+2020,Amt Viöl,Ahrenviöl,629
+2021,Amt Viöl,Ahrenviöl,672
+2022,Amt Viöl,Ahrenviöl,666
+2010,Amt Viöl,Ahrenviölfeld,559
+2011,Amt Viöl,Ahrenviölfeld,589
+2012,Amt Viöl,Ahrenviölfeld,608
+2013,Amt Viöl,Ahrenviölfeld,648
+2014,Amt Viöl,Ahrenviölfeld,662
+2015,Amt Viöl,Ahrenviölfeld,635
+2016,Amt Viöl,Ahrenviölfeld,665
+2017,Amt Viöl,Ahrenviölfeld,720
+2018,Amt Viöl,Ahrenviölfeld,702
+2019,Amt Viöl,Ahrenviölfeld,750
+2020,Amt Viöl,Ahrenviölfeld,700
+2021,Amt Viöl,Ahrenviölfeld,704
+2022,Amt Viöl,Ahrenviölfeld,697
+2010,Amt Viöl,Behrendorf,573
+2011,Amt Viöl,Behrendorf,590
+2012,Amt Viöl,Behrendorf,617
+2013,Amt Viöl,Behrendorf,615
+2014,Amt Viöl,Behrendorf,626
+2015,Amt Viöl,Behrendorf,630
+2016,Amt Viöl,Behrendorf,632
+2017,Amt Viöl,Behrendorf,663
+2018,Amt Viöl,Behrendorf,649
+2019,Amt Viöl,Behrendorf,664
+2020,Amt Viöl,Behrendorf,691
+2021,Amt Viöl,Behrendorf,703
+2022,Amt Viöl,Behrendorf,728
+2010,Amt Viöl,Bondelum,585
+2011,Amt Viöl,Bondelum,580
+2012,Amt Viöl,Bondelum,612
+2013,Amt Viöl,Bondelum,615
+2014,Amt Viöl,Bondelum,646
+2015,Amt Viöl,Bondelum,653
+2016,Amt Viöl,Bondelum,638
+2017,Amt Viöl,Bondelum,677
+2018,Amt Viöl,Bondelum,682
+2019,Amt Viöl,Bondelum,640
+2020,Amt Viöl,Bondelum,690
+2021,Amt Viöl,Bondelum,729
+2022,Amt Viöl,Bondelum,701
+2010,Amt Viöl,Haselund,586
+2011,Amt Viöl,Haselund,593
+2012,Amt Viöl,Haselund,607
+2013,Amt Viöl,Haselund,596
+2014,Amt Viöl,Haselund,639
+2015,Amt Viöl,Haselund,663
+2016,Amt Viöl,Haselund,678
+2017,Amt Viöl,Haselund,700
+2018,Amt Viöl,Haselund,709
+2019,Amt Viöl,Haselund,697
+2020,Amt Viöl,Haselund,702
+2021,Amt Viöl,Haselund,727
+2022,Amt Viöl,Haselund,746
+2010,Amt Viöl,Immenstedt,600
+2011,Amt Viöl,Immenstedt,585
+2012,Amt Viöl,Immenstedt,581
+2013,Amt Viöl,Immenstedt,579
+2014,Amt Viöl,Immenstedt,610
+2015,Amt Viöl,Immenstedt,586
+2016,Amt Viöl,Immenstedt,574
+2017,Amt Viöl,Immenstedt,599
+2018,Amt Viöl,Immenstedt,640
+2019,Amt Viöl,Immenstedt,646
+2020,Amt Viöl,Immenstedt,661
+2021,Amt Viöl,Immenstedt,679
+2022,Amt Viöl,Immenstedt,674
+2010,Amt Viöl,Löwenstedt,535
+2011,Amt Viöl,Löwenstedt,534
+2012,Amt Viöl,Löwenstedt,562
+2013,Amt Viöl,Löwenstedt,579
+2014,Amt Viöl,Löwenstedt,593
+2015,Amt Viöl,Löwenstedt,593
+2016,Amt Viöl,Löwenstedt,607
+2017,Amt Viöl,Löwenstedt,656
+2018,Amt Viöl,Löwenstedt,669
+2019,Amt Viöl,Löwenstedt,672
+2020,Amt Viöl,Löwenstedt,670
+2021,Amt Viöl,Löwenstedt,706
+2022,Amt Viöl,Löwenstedt,683
+2010,Amt Viöl,Norstedt,602
+2011,Amt Viöl,Norstedt,603
+2012,Amt Viöl,Norstedt,609
+2013,Amt Viöl,Norstedt,636
+2014,Amt Viöl,Norstedt,663
+2015,Amt Viöl,Norstedt,696
+2016,Amt Viöl,Norstedt,732
+2017,Amt Viöl,Norstedt,735
+2018,Amt Viöl,Norstedt,733
+2019,Amt Viöl,Norstedt,735
+2020,Amt Viöl,Norstedt,744
+2021,Amt Viöl,Norstedt,791
+2022,Amt Viöl,Norstedt,790
+2010,Amt Viöl,Oster-Ohrstedt,610
+2011,Amt Viöl,Oster-Ohrstedt,602
+2012,Amt Viöl,Oster-Ohrstedt,631
+2013,Amt Viöl,Oster-Ohrstedt,644
+2014,Amt Viöl,Oster-Ohrstedt,656
+2015,Amt Viöl,Oster-Ohrstedt,660
+2016,Amt Viöl,Oster-Ohrstedt,648
+2017,Amt Viöl,Oster-Ohrstedt,657
+2018,Amt Viöl,Oster-Ohrstedt,702
+2019,Amt Viöl,Oster-Ohrstedt,700
+2020,Amt Viöl,Oster-Ohrstedt,707
+2021,Amt Viöl,Oster-Ohrstedt,714
+2022,Amt Viöl,Oster-Ohrstedt,712
+2010,Amt Viöl,Schwesing,570
+2011,Amt Viöl,Schwesing,575
+2012,Amt Viöl,Schwesing,581
+2013,Amt Viöl,Schwesing,599
+2014,Amt Viöl,Schwesing,634
+2015,Amt Viöl,Schwesing,644
+2016,Amt Viöl,Schwesing,647
+2017,Amt Viöl,Schwesing,652
+2018,Amt Viöl,Schwesing,652
+2019,Amt Viöl,Schwesing,662
+2020,Amt Viöl,Schwesing,676
+2021,Amt Viöl,Schwesing,683
+2022,Amt Viöl,Schwesing,690
+2010,Amt Viöl,Sollwitt,595
+2011,Amt Viöl,Sollwitt,611
+2012,Amt Viöl,Sollwitt,617
+2013,Amt Viöl,Sollwitt,608
+2014,Amt Viöl,Sollwitt,628
+2015,Amt Viöl,Sollwitt,637
+2016,Amt Viöl,Sollwitt,630
+2017,Amt Viöl,Sollwitt,625
+2018,Amt Viöl,Sollwitt,650
+2019,Amt Viöl,Sollwitt,659
+2020,Amt Viöl,Sollwitt,663
+2021,Amt Viöl,Sollwitt,663
+2022,Amt Viöl,Sollwitt,616
+2010,Amt Viöl,Viöl,505
+2011,Amt Viöl,Viöl,513
+2012,Amt Viöl,Viöl,514
+2013,Amt Viöl,Viöl,518
+2014,Amt Viöl,Viöl,529
+2015,Amt Viöl,Viöl,536
+2016,Amt Viöl,Viöl,561
+2017,Amt Viöl,Viöl,578
+2018,Amt Viöl,Viöl,588
+2019,Amt Viöl,Viöl,603
+2020,Amt Viöl,Viöl,614
+2021,Amt Viöl,Viöl,637
+2022,Amt Viöl,Viöl,642
+2010,Amt Viöl,Wester-Ohrstedt,592
+2011,Amt Viöl,Wester-Ohrstedt,575
+2012,Amt Viöl,Wester-Ohrstedt,587
+2013,Amt Viöl,Wester-Ohrstedt,598
+2014,Amt Viöl,Wester-Ohrstedt,621
+2015,Amt Viöl,Wester-Ohrstedt,628
+2016,Amt Viöl,Wester-Ohrstedt,615
+2017,Amt Viöl,Wester-Ohrstedt,637
+2018,Amt Viöl,Wester-Ohrstedt,629
+2019,Amt Viöl,Wester-Ohrstedt,608
+2020,Amt Viöl,Wester-Ohrstedt,654
+2021,Amt Viöl,Wester-Ohrstedt,660
+2022,Amt Viöl,Wester-Ohrstedt,663
+2010,Gemeinde Reußenköge,Reußenköge,769
+2011,Gemeinde Reußenköge,Reußenköge,795
+2012,Gemeinde Reußenköge,Reußenköge,767
+2013,Gemeinde Reußenköge,Reußenköge,822
+2014,Gemeinde Reußenköge,Reußenköge,842
+2015,Gemeinde Reußenköge,Reußenköge,920
+2016,Gemeinde Reußenköge,Reußenköge,952
+2017,Gemeinde Reußenköge,Reußenköge,997
+2018,Gemeinde Reußenköge,Reußenköge,1066
+2019,Gemeinde Reußenköge,Reußenköge,1150
+2020,Gemeinde Reußenköge,Reußenköge,1170
+2021,Gemeinde Reußenköge,Reußenköge,1207
+2022,Gemeinde Reußenköge,Reußenköge,1517
+2010,Gemeinde Sylt,Högel,569
+2011,Gemeinde Sylt,Högel,576
+2012,Gemeinde Sylt,Högel,562
+2013,Gemeinde Sylt,Högel,551
+2014,Gemeinde Sylt,Högel,546
+2015,Gemeinde Sylt,Högel,536
+2016,Gemeinde Sylt,Högel,563
+2017,Gemeinde Sylt,Högel,555
+2018,Gemeinde Sylt,Högel,582
+2019,Gemeinde Sylt,Högel,586
+2020,Gemeinde Sylt,Högel,573
+2021,Gemeinde Sylt,Högel,606
+2022,Gemeinde Sylt,Högel,619
+2010,Gemeinde Sylt,Kampen,1032
+2011,Gemeinde Sylt,Kampen,993
+2012,Gemeinde Sylt,Kampen,1153
+2013,Gemeinde Sylt,Kampen,1167
+2014,Gemeinde Sylt,Kampen,1196
+2015,Gemeinde Sylt,Kampen,1217
+2016,Gemeinde Sylt,Kampen,1229
+2017,Gemeinde Sylt,Kampen,1230
+2018,Gemeinde Sylt,Kampen,1207
+2019,Gemeinde Sylt,Kampen,1201
+2020,Gemeinde Sylt,Kampen,1217
+2021,Gemeinde Sylt,Kampen,1204
+2022,Gemeinde Sylt,Kampen,1214
+2010,Gemeinde Sylt,List,373
+2011,Gemeinde Sylt,List,368
+2012,Gemeinde Sylt,List,626
+2013,Gemeinde Sylt,List,635
+2014,Gemeinde Sylt,List,628
+2015,Gemeinde Sylt,List,625
+2016,Gemeinde Sylt,List,618
+2017,Gemeinde Sylt,List,627
+2018,Gemeinde Sylt,List,610
+2019,Gemeinde Sylt,List,605
+2020,Gemeinde Sylt,List,596
+2021,Gemeinde Sylt,List,591
+2022,Gemeinde Sylt,List,603
+2010,Gemeinde Sylt,Sylt,617
+2011,Gemeinde Sylt,Sylt,631
+2012,Gemeinde Sylt,Sylt,701
+2013,Gemeinde Sylt,Sylt,710
+2014,Gemeinde Sylt,Sylt,714
+2015,Gemeinde Sylt,Sylt,714
+2016,Gemeinde Sylt,Sylt,717
+2017,Gemeinde Sylt,Sylt,715
+2018,Gemeinde Sylt,Sylt,724
+2019,Gemeinde Sylt,Sylt,737
+2020,Gemeinde Sylt,Sylt,735
+2021,Gemeinde Sylt,Sylt,741
+2022,Gemeinde Sylt,Sylt,748
+2010,Gemeinde Sylt,Wenningstedt-Braderup,765
+2011,Gemeinde Sylt,Wenningstedt-Braderup,749
+2012,Gemeinde Sylt,Wenningstedt-Braderup,787
+2013,Gemeinde Sylt,Wenningstedt-Braderup,786
+2014,Gemeinde Sylt,Wenningstedt-Braderup,770
+2015,Gemeinde Sylt,Wenningstedt-Braderup,758
+2016,Gemeinde Sylt,Wenningstedt-Braderup,751
+2017,Gemeinde Sylt,Wenningstedt-Braderup,755
+2018,Gemeinde Sylt,Wenningstedt-Braderup,755
+2019,Gemeinde Sylt,Wenningstedt-Braderup,681
+2020,Gemeinde Sylt,Wenningstedt-Braderup,700
+2021,Gemeinde Sylt,Wenningstedt-Braderup,701
+2022,Gemeinde Sylt,Wenningstedt-Braderup,705
+2010,Stadt Husum,Husum,493
+2011,Stadt Husum,Husum,503
+2012,Stadt Husum,Husum,508
+2013,Stadt Husum,Husum,515
+2014,Stadt Husum,Husum,518
+2015,Stadt Husum,Husum,522
+2016,Stadt Husum,Husum,532
+2017,Stadt Husum,Husum,534
+2018,Stadt Husum,Husum,544
+2019,Stadt Husum,Husum,558
+2020,Stadt Husum,Husum,565
+2021,Stadt Husum,Husum,574
+2022,Stadt Husum,Husum,577
